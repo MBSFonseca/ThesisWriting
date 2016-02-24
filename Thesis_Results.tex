@@ -1,0 +1,283 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                      %
+%     File: Thesis_Results.tex                                         %
+%     Tex Master: Thesis.tex                                           %
+%                                                                      %
+%     Author: Andre C. Marta                                           %
+%     Last modified : 21 Jan 2011                                      %
+%                                                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Results and Discussion}
+\label{chapter:results}
+
+\section{Visible Spectrum Solution's Results}
+\label{section:passiveresults}
+
+The tests were performed in bright daylight. As stated in section \ref{section:pmaterialtesting}, half the individuals started at the 350 m mark and the other half at 50 m. The study was conducted with around 67\% pilots. All subjects were between 18 and 25 years old.\\
+The obtained results for each light are shown in figure \ref{fig:statistic} with the top and lower whiskers identifying the maximum and minimum evaluation respectively, the green block identifying the first quartile and the violet block (only seen in figure \ref{fig:statisticanti}) representing the third quartile. The band between the green and violet blocks identifies the median. \\
+\begin{figure}[!ht]
+  \centering
+  \subfigure[][]{
+    \label{fig:statisticleft} 
+    \includegraphics[width=0.45\textwidth]{Figures/Statistics/LeftPosition.png}
+  }
+  \hspace{8pt}
+  \subfigure[][]{
+    \label{fig:statisticright} 
+    \includegraphics[width=0.45\textwidth]{Figures/Statistics/RightPosition.png} 
+  }\\
+  \subfigure[][]{
+    \label{fig:statisticrear} 
+    \includegraphics[width=0.45\textwidth]{Figures/Statistics/RearPosition.png}
+  }
+  \hspace{8pt}
+  \subfigure[][]{
+    \label{fig:statisticanti} 
+    \includegraphics[width=0.45\textwidth]{Figures/Statistics/AntiCollision.png} 
+  }
+  \caption[Statistic Study Results]{Statistic study results for each light:
+			\subref{fig:statisticleft} left position;
+			\subref{fig:statisticright} right position;
+			\subref{fig:statisticrear} rear position; and,
+			\subref{fig:statisticanti} anti-collision.}%
+  \label{fig:statistic}%
+\end{figure}
+As can be seen, specially in figures~\ref{fig:statisticleft}--\subref{fig:statisticrear}, the maximum distance was not far way enough to achieve a high decline. Even so, it is clear that the anti-collision achieves the worst result, with a big difference to the left position light, followed by the right and finally the rear position light. The anti-collision has a much higher angular coverage, so the lower range was expected. Adding to this, although the light was still quite clear at the 350 meters mark, the Morse code was not so perceptible which caused several subjects to decrease their grade.\\
+
+\section{Infrared Solution's Results}
+\label{section:activeresults}
+\subsection{Time Variables Optimization Results}
+\label{subsection:optresults}
+The results from tests in section \ref{subsection:opt} are presented below.\\
+The total number of receptions for each variable is represented in figure \ref{fig:optresults1}. 
+The best result for the variable 'TX', expressed in figure \ref{fig:opttx}, is for value 5, while value 1 presents the worst case. The low number of receptions when 'TX' is equal to 1 might be caused by the high percentage of time each system spends transmitting, which is not spent in reception. On the other hand, too much time without transmitting any message also decreases the number of receptions, as can be seen with the increase of 'TX' to 10, 15 and 20.\\
+For variable 'A', in figure \ref{fig:opta}, there is a big decrease in receptions between values 1 and 3, followed by an incremental rise until the maximum is reached at value 10. \\
+For variable 'REC', showed in figure \ref{fig:optrec}, the maximum is achieved with the lowest value, 10, with a gradual decrease of the number of receptions for larger values of the variable.\\
+Finally, variable 'RC5\_ T1', which defines the duration of each level (high or low) inside the transmitted message, has zero receptions for value 100, increasing until the maximum is reached at value 700 and then decreasing at value 889, which is the standard for the RC-5 protocol, as presented in figure \ref{fig:optrc5}. The increase of the modulation frequency to 56 kHz allows a slight decrease of variable 'RC5\_ T1' from 889 to 700, which increases the transmission rate. For lower values of 'RC5\_ T1' though, the lower duration of the message has an increasing negative impact on the reception rate.\\
+
+\begin{figure}[!ht]
+  \centering
+  \subfigure[][]{
+    \label{fig:opttx} 
+    \includegraphics[width=0.40\textwidth]{Figures/Optimization/tx.png}
+  }
+  \hspace{8pt}
+  \subfigure[][]{
+    \label{fig:opta} 
+    \includegraphics[width=0.40\textwidth]{Figures/Optimization/a.png} 
+  }\\
+  \subfigure[][]{
+    \label{fig:optrec} 
+    \includegraphics[width=0.40\textwidth]{Figures/Optimization/rec.png}
+  }
+  \hspace{8pt}
+  \subfigure[][]{
+    \label{fig:optrc5} 
+    \includegraphics[width=0.40\textwidth]{Figures/Optimization/rc5.png} 
+  }
+  \caption[Optimization Test Results for each Variable]{Optimization test results for each variable:
+			\subref{fig:opttx} 'TX';
+			\subref{fig:opta} 'A';
+			\subref{fig:optrec} 'REC'; and,
+			\subref{fig:optrc5} 'RC5\_ T1'.}%
+  \label{fig:optresults1}%
+\end{figure}
+
+The charts shown in figure~\ref{fig:optresults2} illustrate the evolution of the controlled variables when other is changed. Starting with figures~\ref{fig:opttxrc5}--\subref{fig:optrecrc5} which show the relation between the variable 'RC5\_ T1' and the other three, while figure~\ref{fig:opttxa} shows the relation between 'TX' and 'A', figure~\ref{fig:opttxrec} the relation between 'TX' and 'REC', and finally figure~\ref{fig:optarec} shows the variables 'A' and 'REC'.\\
+
+\begin{figure}[!ht]
+  \centering
+  \subfigure[][]{
+    \label{fig:opttxrc5} 
+    \includegraphics[width=0.45\textwidth]{Figures/Optimization/txrc5.png}
+  }
+  \hspace{8pt}
+  \subfigure[][]{
+    \label{fig:optarc5} 
+    \includegraphics[width=0.45\textwidth]{Figures/Optimization/arc5.png} 
+  }\\
+  \subfigure[][]{
+    \label{fig:optrecrc5} 
+    \includegraphics[width=0.45\textwidth]{Figures/Optimization/recrc5.png}
+  }
+  \hspace{8pt}
+  \subfigure[][]{
+    \label{fig:opttxa} 
+    \includegraphics[width=0.45\textwidth]{Figures/Optimization/txa.png} 
+  }\\
+  \subfigure[][]{
+    \label{fig:opttxrec} 
+    \includegraphics[width=0.45\textwidth]{Figures/Optimization/txrec.png}
+  }
+  \hspace{8pt}
+  \subfigure[][]{
+    \label{fig:optarec} 
+    \includegraphics[width=0.45\textwidth]{Figures/Optimization/arec.png} 
+  }
+  \caption[Optimization Test Results - Relations between Variables]{Optimization test results - relations between variables:
+			\subref{fig:opttxrc5} relation between 'TX' and 'RC5\_ T1';
+			\subref{fig:optarc5} relation between 'A' and 'RC5\_ T1';
+			\subref{fig:optrecrc5} relation between 'REC' and 'RC5\_ T1';
+			\subref{fig:opttxa} relation between 'TX' and 'A';
+			\subref{fig:opttxrec} relation between 'TX' and 'REC'; and,
+			\subref{fig:optarec} relation between 'A' and 'REC'.}%
+  \label{fig:optresults2}%
+\end{figure}
+
+As can be seen in figures~\ref{fig:opttxrc5}--\subref{fig:optrecrc5}, the optimum value for the variable 'RC5\_ T1' is between 500 and 700, with a clear maximum in figure~\ref{fig:opttxrc5} for 700.\\
+For variable 'TX', it is clear that value 1 gives the worst results, with zero receptions. For maximum receptions, the variations are not so clear with only a slight decrease in the number of receptions as we increased 'TX'.\\
+As can be seen in figures~\ref{fig:optarc5}, \subref{fig:opttxa} and \subref{fig:optarec}, variable 'A' has the minimum number of receptions for value 3, with a clear increase for value 1 and for higher values. Overall, the higher number of receptions were achieved for value 10.\\
+Finally, the variable 'REC' shows a clear decrease in receptions for higher values, with the highest number of receptions achieved for the minimum value 10.\\
+
+Although there is no perceptible influence in the results, each test was not run under the same ambient light conditions, as the total time for the optimization test surpassed 12 hours and the room could not be blacked out during daytime.\\
+
+The chosen values for the variables were:
+\begin{itemize}
+\item 'TX' - 5
+\item 'A' - 10
+\item 'REC' - 10
+\item 'RC5\_ T1' - 700
+\end{itemize}
+
+\subsection{Blind Zone Results}
+\label{subsection:blindzoneresults}
+The results for tests in section \ref{subsection:blindzones} are shown in figure \ref{fig:blind}.\\
+
+\begin{figure}[!ht]
+  \centering
+  \subfigure[][]{
+    \label{fig:blinde7} 
+    \includegraphics[width=0.4\textwidth]{Figures/teste7m.png}
+  }
+  \hspace{8pt}
+  \subfigure[][]{
+    \label{fig:blindr7} 
+    \includegraphics[width=0.4\textwidth]{Figures/receptor7m.png} 
+  }\\
+  \subfigure[][]{
+    \label{fig:blinde9} 
+    \includegraphics[width=0.4\textwidth]{Figures/teste9m.png}
+  }
+  \hspace{8pt}
+  \subfigure[][]{
+    \label{fig:blindr9} 
+    \includegraphics[width=0.4\textwidth]{Figures/receptor9m.png} 
+  }\\
+  \subfigure[][]{
+    \label{fig:blinde11} 
+    \includegraphics[width=0.4\textwidth]{Figures/teste11m.png}
+  }
+  \hspace{8pt}
+  \subfigure[][]{
+    \label{fig:blindr11} 
+    \includegraphics[width=0.4\textwidth]{Figures/receptor11m.png} 
+  }
+  \caption[Blind Zones Test Results]{Blind zones test results:
+			\subref{fig:blinde7} transmission at 7 m;
+			\subref{fig:blindr7} reception at 7 m;
+			\subref{fig:blinde9} transmission at 9 m;
+			\subref{fig:blindr9} reception at 9 m;
+			\subref{fig:blinde11} transmission at 11 m; and,
+			\subref{fig:blindr11} reception at 11 m.}%
+  \label{fig:blind}%
+\end{figure}
+
+As a first analyzes to figures \ref{fig:blinde7}, \subref{fig:blinde9} and \subref{fig:blinde11}, the low reception rates in some sectors, for example sector 1 (22.5\degree ) in figures \ref{fig:blinde9} and \subref{fig:blinde11}, may be explained by the incorrect positioning of the LED of that sector, with it pointing upwards or downwards instead of horizontally. Adding to this, there are some LEDs which may be pointed towards other sectors, such as LED 0 in figure \ref{fig:blinde7} which should have more receptions at 0\degree and 5\degree . Other possible justification for this is the incorrect rotation of the transmitting prototype during tests.\\
+
+Then, considering a blind zone in transmission when the number of receptions is under 3 for a distance of 7 m, under 2 for 9 m and equal to 0 for 11 m, we have the following blind zones:
+\begin{itemize}
+\item At 7 m, there are blind zones of 15\degree between sectors 0/1, 4/5, 6/7 and 12/13; the rest of areas between sectors all have 10\degree blind zones except between sectors 13/14 which is only of 5\degree .
+\item At 9 m, there are no blind zones of 15\degree , but most areas have blind zones of 10\degree , except between sectors 2/3, 3/4, 5/6, 8/9, 9/10, 10/11 and 15/0 which have blind zones of only 5\degree .
+\item At 11 m, there is only one blind zone of 10\degree between sector 1 and 2, which may be caused by LED1 being incorrectly pointed. All the other areas between LEDs have blind zones of 5\degree except for areas between sectors 8/9, 9/10, 11/12, 13/14 and 14/15 which do not have blind zones.
+\end{itemize}
+
+For the reception blind zones at 7 m range, in figure \ref{fig:blindr7} we can see that there is no clear blind zone, only a reduction in the number of receptions on a 5\degree sector which belongs to receiver 0.\\
+For the 9 m test, there are a couple blind zones between each receiver, at approximately 45, 135, 225 and 315\degree .\\
+Finally, at 11 meters, the reception rate was much lower, with several zones only receiving two times. Nonetheless, it is possible to see an increase of receptions when the transmitter is in front of a receiver or between two, with each receiver receiving mostly at different times.\\
+
+Analyzing the data from the reception blind zones test, it is possible to see that the virtual sectors do not work properly, as it is impossible to guaranty that both receivers are receiving the signal at the same time. Because of this, only 50\% of the received signals in a virtual sector were received by two receivers (data not represented in figure \ref{fig:blind}).\\
+
+\subsection{Ranges' results}
+\label{subsection:rangesresults}
+Results for tests in section \ref{subsection:ranges}.\\
+The results for the tests done indoors are shown in table \ref{tab:ranges}.
+\begin{table}[!ht]
+\centering
+\caption[Results for Indoor Range Tests]{Results for indoor range tests}
+\label{tab:ranges}
+\begin{tabular}{@{}cccccccc@{}}
+\toprule
+                     &       & \multicolumn{2}{c}{39$\Omega$} & \multicolumn{2}{c}{56$\Omega$} & \multicolumn{2}{c}{82$\Omega$} \\ \cmidrule(l){3-8} 
+                     &       & w/ Filter   & w/o Filter       & w/ Filter   & w/o Filter       & w/ Filter   & w/o Filter       \\
+\multirow{2}{*}{Max} & Day   & 20          & \textgreater50   & 15.2        & \textgreater50   & 13.8        & \textgreater50   \\
+                     & Night & 24.7        & \textgreater50   & -           & -                & -           & -                \\
+\multirow{2}{*}{Min} & Day   & 4.5         & 11.5             & 3.8         & 10               & 3        	 & 9.1 \\
+                     & Night & 6.5         & 17               & -           & -                & -           & -                \\ \hline
+\end{tabular}
+\end{table}
+
+As expected, the use of higher resistance decreased the minimum and maximum ranges, due to the lower radiance intensity. Adding to this, the absence of a filter has a high effect on the ranges, with the receivers saturating at longer distances, but also increasing the maximum range. The difference in the minimum distances between day and night is due to the receiver's automatic gain control, which adjusts the irrandiance threshold for different ambient noise.\\
+The maximum ranges were also tested outdoors. During daytime, the maximum ranges achieved were 26 m with 39 $\Omega$, 21.5 m with 56 $\Omega$ and 13.6 m with 82 $\Omega$. During nighttime the only resistance tested was 39 $\Omega$, which gave a range of 62 m.\\
+
+\subsection{Maneuvers' Results}
+\label{subsection:maneuversresults}
+The results for the tests done in section \ref{subsection:maneuvers} are presented bellow.\\
+\subsubsection{Static tests}
+The first conducted tests were static, in order to confirm that both prototypes were working as expected.\\
+In the head-on position, both aircraft detected a threat, receiving transmission sector 0 in reception sector 0.\\
+Next, in the converging position, both aircraft also detected a threat, with aircraft 1 receiving transmission sector 14 in reception sectors 0 and 1, and aircraft 2 receiving transmission sector 2 in reception sectors 0 and 3.\\
+Finally, in overtaking position, aircraft 1 received the transmission sector 8 in reception sector 0, and aircraft 2 transmission sector 0 in reception sector 2, as was expected.\\
+
+After making sure that both prototypes were producing the correct detection, several maneuvers were tested and which results are presented bellow.\\
+\subsubsection{Head-on collision avoidance maneuver}
+The results for aircraft 1, from figure \ref{fig:configheadon}, in the head-on collision avoidance maneuver are shown in figure \ref{fig:resultsheadon}. The graphic shows the receptions for each receiver, as well as the threat's transmitting sector (over the mark) whenever it changes. The messages received by two receivers at the same time (virtual sectors) are represented between them, for example, the data that receivers 2 and 3 received at 15:56:51 is represented between these receivers.\\
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=1\textwidth]{Figures/Maneuvers/headon.png}
+  \caption[Results for Head-On Collision Avoidance Maneuver]{Results for head-on collision avoidance maneuver}
+  \label{fig:resultsheadon}
+\end{figure}
+
+As can be read in section \ref{annex:maneuvers}, this maneuver consisted on simulating a head-on collision avoidance maneuver, where each aircraft must move to its right, until a safe separation distance is reached.\\
+Although some errors are visible in the data, the results are consistent with what was expected with a possible head-on collision being detected, followed by a right turn at 15:56:09 to avoid collision. When aircraft 1 is almost behind the threat, at 15:57:03, it turns left to return to its flight path. It is also possible to see that the intruder (aircraft 2) turned right before aircraft 1, at 15:56:07, as the received messages switch from a 0 to a 14.\\
+
+\subsubsection{Converging collision avoidance maneuver}
+The results for aircraft 1, from figure \ref{fig:configconverging}, in the converging collision avoidance maneuver are shown in figure \ref{fig:resultsconverging}. The graphic has the same format as figure \ref{fig:resultsheadon}.\\
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=1\textwidth]{Figures/Maneuvers/converging.png}
+  \caption[Results for Converging Collision Avoidance Maneuver]{Results for converging collision avoidance maneuver}
+  \label{fig:resultsconverging}
+\end{figure}
+
+As can be read in section \ref{annex:maneuvers}, this maneuver consisted on simulating a converging collision avoidance maneuver, where aircraft 1 (the one on the left) must move to its right, until a safe separation distance is reached.\\ 
+In the graphic it is possible to see that an intruder was at the right side of aircraft 1. After a while, around 16:04:25, aircraft 1 turns to its right and then moves forward. The transmitting sector of the intruder doesn't change until aircraft 1 moves forward at 16:04:36. This tells us that aircraft 1 moved towards aircraft 2, while it should have continued turning right, as the distance and speed of the threat was not known, until aircraft 2 was between sector 0 and 3, to correctly avoid colliding with it. Still, right after aircraft 1 moves forward, it starts receiving a different sector from the threat and, later, the signals arrive at receivers 0 and 3, which means that the threat is now on its left side. When aircraft 1 is behind aircraft 2, at 16:05:16, it turns right and continues on its flight path.\\
+
+\subsubsection{Overtaking collision avoidance maneuver}
+The results for aircraft 1, from figure \ref{fig:configovertaking}, in the overtaking collision avoidance maneuver are shown in figure \ref{fig:resultsovertake}. The graphic has the same format as figure \ref{fig:resultsheadon}.\\
+
+\begin{figure}[!ht]
+  \centering
+  \includegraphics[width=1\textwidth]{Figures/Maneuvers/overtake.png}
+  \caption[Results for Overtaking Collision Avoidance Maneuver]{Results for overtaking collision avoidance maneuver}
+  \label{fig:resultsovertake}
+\end{figure}
+
+As can be read in section \ref{annex:maneuvers}, this maneuver consisted on simulating an overtaking collision avoidance maneuver, where aircraft 1 (the one overtaking) must move to its right, until a safe separation distance is reached.\\
+In the graphic it is possible to see aircraft 1 detecting a thread in front of it, and that it is behind the threat. At 16:23:38, aircraft 1 turns right to avoid a collision. Then, when the thread's transmitting sector switches to 6, aircraft 1 turns left to its original destination, as it is clear from the threat.\\
+
+During testing, it was found that the virtual sectors created for reception did not work as predicted. As can be seen in figure \ref{fig:resultsovertake} between 16:23:37 and 16:23:48, the threat switches from sector 0 to 3 and between them multiple times. As each prototype is not always transmitting and receiving, it is impossible to be sure that two receivers will receive the same message at the same time. \\
+Adding to this, the reception frequency is not constant, as can be seen in figure \ref{fig:resultsovertake} between 16:23:49 and 16:24:03, where aircraft 1 only detects the threat 4 times in 14 seconds. This should not be caused by the prototype's not being able to transmit and receive at the same time, but by incorrectly positioned LED.\\
+
+\section{Lessons Learned}
+\label{section:lessons}
+During the realization of this work, some details of the developed prototype or the performed tests were identified which might have an effect on the obtained results.\\
+The first one was found when analyzing the results from the position and anti-collision lights system range test. The subjects were asked to evaluate the light's intensity, but there were multiple occurrences where subjects evaluated the perceptibility of the Morse code, and not the light intensity. For future tests, two different questions should be asked about the anti-collision light, "evaluate the luminous intensity" and "evaluate the Morse code perceptibility".\\
+After assembling the IR sense and avoid prototypes, the IR LEDs were easily moved, as they are only fixed by the printed circuit board, which allows them to slightly move. To avoid any impact from creating interference in the transmitting sectors, a future version should have the LEDs moved inside the printed box or a better fixation.\\
+During the blind zone tests, it was found difficult to achieving a precise rotation and control of time between rotations. Adding to this, as the results were analyzed, it was found that the time between rotations was too low to remove random fluctuations of the reception rate and that rotations should be decreased to 2.5\degree to allow an improved control of the blind zones.\\
+With the maneuvers and blind-spots tests, it was found that the virtual sectors created for reception did not work as predicted. At the same time, the four available sectors are insufficient to correctly track an intruder so that the rules-of-the-air may be applied. Eight receivers are recommended, but require the introduction of a demultiplexer or the replacement of the selected Arduino\texttrademark board with one which possesses more I/O pins.\\
+
+\cleardoublepage

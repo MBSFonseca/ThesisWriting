@@ -1,0 +1,188 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                      %
+%     File: Thesis_Introduction.tex                                    %
+%     Tex Master: Thesis.tex                                           %
+%                                                                      %
+%     Author: Andre C. Marta                                           %
+%     Last modified : 28 Feb 2014                                      %
+%                                                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+\label{chapter:introduction}
+
+% ----------------------------------------------------------------------
+\section{Challenges and Motivation}
+\label{section:motivation}
+Advances in control technology and manufacture techniques have introduced into the market Unmanned Aircraft (UA) which are able of operating in a wide variety of scenes and which offer great capabilities, such as increased payload, range or time of operation. Adding to this, the fast growing availability of cheap small unmanned aircraft (sUA) which can offer features similar to the high-end unmanned aircraft with added simplicity of operation, has brought an increased interest of the general public to aviation.\\
+The simplicity of operation of these aircraft means that an operator is not required to possess technical knowledge or to have any knowledge of the rules of the air, to be able to fly an sUA. The introduction of this kind of user into such a highly regulated world, as is aviation, highly increases the risk of air collision.\\
+
+The late introduction of regulation for small unmanned aircraft may be explained by the difficulty in regulating operation in non-segregated airspace. One risk factor which has been delaying this integration, is the difficulty in developing anti-collision methods and technologies for Unmanned Aircraft Vehicles (UAVs) with equivalent level of safety (ELOS) as comparable manned aircraft. General aviation (GA) has methods and technologies which are widely implemented and their efficiency has been broadly proven. In fact, a big percentage of their efficiency is due to the inclusion of a human component in the See and Avoid task has a fundamental element in the resolution of a potential conflict between aircraft. It is an exclusive task of the aircraft's crew to oversee, detect and avoid potential conflicts with nearby aircraft. Another important element is air traffic management which is responsible for the overseeing of a larger airspace's area and for the early management of aircraft's future flight path to avoid conflicts.\\
+The crew of a conventional aircraft performs the monitoring task in the surrounding airspace volume, trying to detect potential conflicts with any nearby aircraft. In the event of a potential conflict, they rely in several systems that support them making maneuvering decisions to maintain or increase the existing separation from the intruder aircraft. Some of these systems are on-board, such as the Airborne Collision Avoidance System (ACAS) or the Automatic Dependent Surveillance-Broadcast (ADS-B). Both systems rely on cooperative methods, where each aircraft's flight information is shared via radio data-link. This radio data-link in provided by an active transponder which usually is too big or power consuming for sUA.\\
+Another system that can help prevent collisions are external illumination systems, composed by navigation and anti-collision lights, which increase the visibility of the aircraft. Without requiring complex electronics and with easy installation, these systems create a visual signature, by using a mixture of continuous and blinking lights, that can hardly be ignored by other nearby pilots.\\
+Small unmanned aircraft have several characteristics that reduce the aircraft's visibility, such as its small physical dimension and their typical low altitude flight envelope. Considering all the mentioned factors about the general aviation's external illumination systems, suggests that its adaptation to UAVs will improve their visibility to other operators. In this adaptation it is fundamental that the designed illumination system provides a transparent experience for all users, i.e., it must behave similarly to conventional aircraft, with eventual changes that identify the aircraft as unmanned.\\
+
+% ----------------------------------------------------------------------
+\section{Goals}
+\label{section:goals}
+
+This dissertation aims to study and develop strategies and systems that allow the low cost incorporation of Sense and Avoid capabilities in small unmanned aircraft vehicles. The main objectives for this work are:
+\begin{itemize}
+\item Evaluate the state of the art in "See and Avoid" technologies and capabilities being used in the general aviation, as well as new developments in "Sense and Avoid" technologies and capabilities for specific UAV use.
+\item Identify and evaluate the possibility of transposing technology being used in the general aviation for sUAV use.
+\item Develop and implement one or more prototypes using open-source hardware and software, of an anti-collision technology derived from the general aviation, replicating on a UAV by optical means, the conventional systems functionality.
+\item Test the performance of the developed prototypes, collecting anti-collision data, during indoor and outdoor flight.
+\item Evaluate and compare the performance of the implemented prototypes and algorithms determining their contribution for the improvement of the anti-collision capabilities in particular and the Sense and Avoid capabilities in general, between multiple UAVs and between manned aircraft and UAV.
+\end{itemize}
+The development of physical prototypes, methods and algorithms of Sense and Avoid for UAV use shall be, as possible, implemented in low cost embedded electronic circuits, as Arduino plataforms (as example but not limited to). This choice is meant to facilitate the reproduction of the developed technology, to disseminate and provide to the sUA community simple, low cost and low maintenance equipment.\\
+
+
+% ----------------------------------------------------------------------
+\section{Contributions}
+\label{section:contributions}
+The main contributions are the implementation of two different solutions to provide the Sense and Avoid capability, one of which also helps the practice of See and Avoid for manned aircraft. The first solution is an adaptation of a position and anti-collision lights system to an sUA. During this process, a method of identifying the type of aircraft was developed which uses Morse code transmitted by the anti-collision light. The other solution, the Infrared Sense and Avoid prototype, enables the detection of an intruder and provides the intruder's relative flight path and type of aircraft, as well as a relative position to the receiving aircraft so that possible avoidance maneuvers may be planned.
+
+% ----------------------------------------------------------------------
+\section{Outline}
+\label{section:outline}
+Chapter \ref{chapter:state} provides an introduction to See and Avoid and to Sense and Avoid, with a review of see and avoid history, the technologies used to help the practice of see and avoid, and of recent programs and developments in technologies for the implementation of the Sense and Avoid capability in UAVs. Chapter \ref{chapter:passive} begins by presenting the developed method to differentiate unmanned from manned aircraft as well as the type of aircraft, followed by the adaptation of a position and anti-collision lights system to a small unmanned aircraft. After that, chapter \ref{chapter:active} depicts the design and implementation process of the Infrared Sense and Avoid solution. The results from the tests for each solution are presented in chapter \ref{chapter:results}. Finally, chapter \ref{chapter:conclusions} concludes the dissertation and offers recommendations for future work.\\
+
+
+%%%%%These can be cited in the following way: \\
+
+%Citation mode \#1 - \quad \cite{jameson:adjointns}
+%
+%Citation mode \#2 - \quad \citet{jameson:adjointns}
+%
+%Citation mode \#3 - \quad \citep{jameson:adjointns}
+%
+%
+%Citation mode \#4 - \quad \citet*{jameson:adjointns}
+%
+%Citation mode \#5 - \quad \citep*{jameson:adjointns}
+%
+%
+%Citation mode \#6 - \quad \citealt{jameson:adjointns}
+%
+%Citation mode \#7 - \quad \citealp{jameson:adjointns}
+%
+%
+%Citation mode \#8 - \quad \citeauthor{jameson:adjointns}
+%
+%Citation mode \#9 - \quad \citeyear{jameson:adjointns}
+%
+%Citation mode \#10 - \quad \citeyearpar{jameson:adjointns} \\
+
+
+%Several citations can be made simultaneously as\quad \cite{nocedal:opt,marta:ijcfd}. \\
+%
+%The style can be changed from numerical citation order to authors' last name with option {\tt \textbackslash usepackage[numbers]\{natbib\}} in file {\tt Thesis\_Preamble.tex}.
+
+
+%%%%%\subsection{Tables}
+%%%%%\label{subsection:tables}
+
+%Insert your subsection material and for instance a few tables...
+%
+%\begin{table}[h!]
+%  \begin{center}
+%    \begin{tabular}{|c|c|}
+%      \hline
+%      item 1 & item 2 \\
+%      \hline
+%      item 3 & item 4 \\
+%      \hline
+%    \end{tabular}
+%  \end{center}
+%  \caption[Table caption shown in TOC]{Table caption}
+%  \label{table:simple}
+%\end{table}
+%
+%Make reference to Table \ref{table:simple}.
+%
+%\begin{table}[!htb]
+%  \begin{center}
+%    \begin{tabular}{lccc}
+%      Model           & $C_L$ & $C_D$ & $C_{M y}$ \\
+%      \hline
+%      Euler           & 0.083 & 0.021 & -0.110    \\
+%      Navier--Stokes  & 0.078 & 0.023 & -0.101    \\
+%      \hline
+%    \end{tabular}
+%  \end{center}
+%  \caption{Aerodynamic coefficients.}
+%  \label{tab:aeroCoeff}
+%\end{table}
+%
+%Here is an example of a table with merging columns:
+%
+%\begin{table}[!htb]
+%  \begin{center}
+%    \begin{tabular}[]{lrr}
+%      \hline
+%                     & \multicolumn{2}{c}{\underline{Virtual memory [MB]}} \\
+%                     & Euler       & Navier--Stokes \\
+%      \hline
+%      Wing only      &  1,000      &    2,000       \\
+%      Aircraft       &  5,000      &   10,000       \\
+%      (ratio)        & $5.0\times$ & $5.0\times$    \\
+%      \hline
+%    \end{tabular}
+%  \end{center}
+%  \caption{Memory usage comparison (in MB).}
+%  \label{tab:memory}
+%\end{table}
+%
+%
+%\subsection{Drawings}
+%\label{subsection:drawings}
+%
+%Insert your subsection material and for instance a few drawings...
+%
+%The schematic illustrated in Fig.~\ref{fig:algorithm} can represent some sort of algorithm.
+%
+%\begin{figure}[!htb]
+%  \centering
+%  \scriptsize
+%%  \footnotesize 
+%%  \small
+%  \setlength{\unitlength}{0.9cm}
+%  \begin{picture}(8.5,6)
+%    \linethickness{0.3mm}
+%
+%    \put(3,6){\vector(0,-1){1}}
+%    \put(3.5,5.4){$\bf \alpha$}
+%    \put(3,4.5){\oval(6,1){}}
+%    %\put(0,4){\framebox(6,1){}}
+%    \put(0.3,4.4){Grid Generation: \quad ${\bf x} = {\bf x}\left({\bf \alpha}\right)$}
+%
+%    \put(3,4){\vector(0,-1){1}}
+%    \put(3.5,3.4){$\bf x$}
+%    \put(3,2.5){\oval(6,1){}}
+%    %\put(0,2){\framebox(6,1){}}
+%    \put(0.3,2.4){Flow Solver: \quad ${\cal R}\left({\bf x},{\bf q}\left({\bf x}\right)\right) = 0$}
+%
+%    \put(6.0,2.5){\vector(1,0){1}}
+%    \put(6.4,3){$Y_1$}
+%
+%    \put(3,2){\vector(0,-1){1}}
+%    \put(3.5,1.4){$\bf q$}
+%    \put(3,0.5){\oval(6,1){}}
+%    %\put(0,0){\framebox(6,1){}}
+%    \put(0.3,0.4){Structural Solver: \quad ${\cal M}\left({\bf x},{\bf q}\left({\bf x}\right)\right) = 0$}
+%
+%    \put(6.0,0.5){\vector(1,0){1}}
+%    \put(6.4,1){$Y_2$}
+%
+%    %\put(7.8,2.5){\oval(1.6,5){}}
+%    \put(7.0,0){\framebox(1.6,5){}}
+%    \put(7.1,2.5){Optimizer}
+%    \put(7.8,5){\line(0,1){1}}
+%    \put(7.8,6){\line(-1,0){4.8}}
+%  \end{picture}
+%  \caption{Schematic of some algorithm.}
+%  \label{fig:algorithm}
+%\end{figure}
+
+\cleardoublepage
+

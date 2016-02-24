@@ -1,0 +1,26 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                      %
+%     File: Thesis_Abstract.tex                                        %
+%     Tex Master: Thesis.tex                                           %
+%                                                                      %
+%     Author: Andre C. Marta                                           %
+%     Last modified : 21 Jan 2011                                      %
+%                                                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{Abstract}
+
+% Add entry in the table of contents as section
+\addcontentsline{toc}{section}{Abstract}
+
+%Insert your abstract here with a maximum of 250 words, followed by 4 to 6 keywords...
+Advances in control technology and manufacture techniques have introduced into the market Unmanned Aircraft (UA) which are able of operating in a wide variety of scenes and which offer great capabilities, such as increased payload, range or time of operation. Adding to this, the fast growing availability of cheap, small unmanned aircraft (sUA) which can offer features similar to the high-end unmanned aircraft with added simplicity of operation, has brought an increased interest of the general public to aviation.\\
+The simplicity of operation of these aircraft, means that an operator is not required to possess technical knowledge or to have any knowledge of the rules of the air, to be able to fly an sUA. The introduction of this kind of user into such a highly regulated world, as is aviation, highly increases the risk of air collision.\\
+
+
+\vfill
+
+\textbf{\Large Keywords:} Infrared, See and Avoid, Sense and Avoid, sUA.
+
+\cleardoublepage
+

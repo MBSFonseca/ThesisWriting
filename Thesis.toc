@@ -1,0 +1,84 @@
+\select@language {english}
+\contentsline {section}{Acknowledgments}{iii}{section*.1}
+\contentsline {section}{Resumo}{v}{section*.2}
+\contentsline {section}{Abstract}{vii}{section*.3}
+\contentsline {section}{List of Tables}{xiii}{chapter*.5}
+\contentsline {section}{List of Figures}{xvi}{chapter*.6}
+\contentsline {section}{Nomenclature}{xviii}{chapter*.7}
+\contentsline {section}{Glossary}{xx}{table.0.1}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Challenges and Motivation}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Goals}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Contributions}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Outline}{3}{section.1.4}
+\contentsline {chapter}{\numberline {2}State-of-the-art}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Unmanned Aircraft System}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Sense and Avoid}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Evolution of See and Avoid}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}See and Avoid in General Aviation}{13}{subsection.2.2.2}
+\contentsline {subsubsection}{Position and Anti-Collision Lights}{13}{section*.9}
+\contentsline {subsubsection}{Mode S}{15}{section*.10}
+\contentsline {subsubsection}{ACAS}{16}{section*.11}
+\contentsline {subsubsection}{ADS-B}{19}{section*.12}
+\contentsline {section}{\numberline {2.3}New developments on SAA}{21}{section.2.3}
+\contentsline {section}{\numberline {2.4}SAA development programs}{22}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}MIDCAS}{22}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}UAS Integration in the NAS Project}{23}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Geyer's prototype SAA system}{23}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}ASTRAEA}{24}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Nussberger's Aerial Object Tracking from an Airborne Platform}{25}{subsection.2.4.5}
+\contentsline {section}{\numberline {2.5}Existing equipment}{25}{section.2.5}
+\contentsline {chapter}{\numberline {3}Visible Spectrum Solution}{30}{chapter.3}
+\contentsline {section}{\numberline {3.1}Differentiate unmanned from manned aircraft}{30}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Aircraft types}{31}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Generating the Morse Code}{32}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Lights configuration and range}{34}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Material}{36}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Selecting LEDs}{36}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Selecting Arduino\texttrademark \xspace \xspace Board}{37}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Selecting resistors}{39}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Material Testing}{41}{section.3.3}
+\contentsline {section}{\numberline {3.4}Prototyping}{43}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Controlling the Anti-Collision LED}{43}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}ISR's Quadcopter}{45}{subsection.3.4.2}
+\contentsline {chapter}{\numberline {4}Infrared Solution}{46}{chapter.4}
+\contentsline {section}{\numberline {4.1}Choosing the solution}{46}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Electromagnetic spectrum's frequency}{46}{subsection.4.1.1}
+\contentsline {subsubsection}{Radio and Micro waves}{46}{section*.19}
+\contentsline {subsubsection}{Visible, Ultraviolet and higher frequency waves}{47}{section*.20}
+\contentsline {subsubsection}{Infrared spectrum}{48}{section*.21}
+\contentsline {subsection}{\numberline {4.1.2}Communication Type}{50}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Proposed Solution}{52}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Material}{53}{section.4.2}
+\contentsline {section}{\numberline {4.3}Software}{57}{section.4.3}
+\contentsline {section}{\numberline {4.4}Material Testing}{60}{section.4.4}
+\contentsline {section}{\numberline {4.5}Prototyping}{62}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}ISR's quadcopter}{64}{subsection.4.5.1}
+\contentsline {section}{\numberline {4.6}Prototype Testing}{66}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Time Variables Optimization}{66}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Blind zones}{66}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Ranges}{67}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Maneuvers}{67}{subsection.4.6.4}
+\contentsline {subsection}{\numberline {4.6.5}ISR drone}{68}{subsection.4.6.5}
+\contentsline {chapter}{\numberline {5}Results and Discussion}{69}{chapter.5}
+\contentsline {section}{\numberline {5.1}Visible Spectrum Solution's Results}{69}{section.5.1}
+\contentsline {section}{\numberline {5.2}Infrared Solution's Results}{69}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Time Variables Optimization Results}{69}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Blind Zone Results}{72}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Ranges' results}{74}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Maneuvers' Results}{75}{subsection.5.2.4}
+\contentsline {subsubsection}{Static tests}{75}{section*.22}
+\contentsline {subsubsection}{Head-on collision avoidance maneuver}{75}{section*.23}
+\contentsline {subsubsection}{Converging collision avoidance maneuver}{76}{section*.24}
+\contentsline {subsubsection}{Overtaking collision avoidance maneuver}{77}{section*.25}
+\contentsline {section}{\numberline {5.3}Lessons Learned}{77}{section.5.3}
+\contentsline {chapter}{\numberline {6}Conclusions}{79}{chapter.6}
+\contentsline {section}{\numberline {6.1}Achievements}{79}{section.6.1}
+\contentsline {section}{\numberline {6.2}Future Work}{80}{section.6.2}
+\contentsline {chapter}{Bibliography}{85}{chapter*.26}
+\contentsline {chapter}{\numberline {A}Printed Box Technical Drawings}{1}{appendix.A}
+\contentsline {chapter}{\numberline {B}Test Procedures}{6}{appendix.B}
+\contentsline {section}{\numberline {B.1}Visual Material Test}{6}{section.B.1}
+\contentsline {section}{\numberline {B.2}IR Material Test}{12}{section.B.2}
+\contentsline {section}{\numberline {B.3}IR Maneuvers Test}{21}{section.B.3}
+\contentsline {section}{\numberline {B.4}IR Sense and Avoid Test with Aircraft}{32}{section.B.4}

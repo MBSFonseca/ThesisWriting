@@ -1,0 +1,3023 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.8)  24 FEB 2016 15:49
+entering extended mode
+**Thesis.tex
+(E:\Dropbox\Tese\Documento\Thesis.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 3 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(E:\Dropbox\Tese\Documento\Thesis_Preamble.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2014/04/30 v1.2b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2014/04/30 v1.2b Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel\babel.sty"
+Package: babel 2014/03/24 3.9k The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel\babel.def"
+File: babel.def 2014/03/24 3.9k Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks17
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen114
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks19
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks20
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks21
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2009/07/02 v2.20.1
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks28
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen123
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen124
+\subfiglabelskip=\skip52
+\c@subfigure=\count105
+\c@lofdepth=\count106
+\c@subtable=\count107
+\c@lotdepth=\count108
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigmat\subfigmat.sty"
+Package: subfigmat 1999/02/27 v1.0 Subfigure Matrix Package
+\sfm@width=\skip55
+\sfmcolsep=\skip56
+\c@sfm@count=\count109
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen125
+\extrarowheight=\dimen126
+\NC@list=\toks29
+\extratabsurround=\skip57
+\backup@length=\skip58
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen127
+\nom@tempdim=\dimen128
+\nomitemsep=\skip59
+)
+\@nomenclaturefile=\write3
+
+Writing nomenclature file Thesis.nlo
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(E:\Dropbox\Tese\Documento\glossary.sty
+Package: glossary 2006/07/20 2.4 (NLCT)
+\gls@cols=\count110
+
+No configuration file glossary.cfg found
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip60
+\LTright=\skip61
+\LTpre=\skip62
+\LTpost=\skip63
+\LTchunksize=\count111
+\LTcapwidth=\dimen129
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count112
+\LT@rows=\count113
+\c@LT@tables=\count114
+\c@LT@chunks=\count115
+\LT@p@ftn=\toks30
+)
+\descriptionwidth=\skip64
+\istfile=\write4
+)
+\@glossaryfile=\write5
+
+Writing glossary file Thesis.glo 
+("C:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count116
+\rotFPtop=\skip65
+\rotFPbot=\skip66
+\rot@float@box=\box32
+\rot@mess@toks=\toks31
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen130
+\Hy@linkcounter=\count117
+\Hy@pagecounter=\count118
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count119
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count120
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen131
+\Fld@menulength=\count121
+\Field@Width=\dimen132
+\Fld@charsize=\dimen133
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count122
+\c@Item=\count123
+\c@Hfootnote=\count124
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count125
+\c@bookmark@seq@number=\count126
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip67
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 366.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 366.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 366.
+
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 366
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hypcap.sty"
+Package: hypcap 2011/02/16 v1.11 Adjusting the anchors of captions (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip68
+\bibsep=\skip69
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count127
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen134
+\lightrulewidth=\dimen135
+\cmidrulewidth=\dimen136
+\belowrulesep=\dimen137
+\belowbottomsep=\dimen138
+\aboverulesep=\dimen139
+\abovetopsep=\dimen140
+\cmidrulesep=\dimen141
+\cmidrulekern=\dimen142
+\defaultaddspace=\dimen143
+\@cmidla=\count128
+\@cmidlb=\count129
+\@aboverulesep=\dimen144
+\@belowrulesep=\dimen145
+\@thisruleclass=\count130
+\@lastruleclass=\count131
+\@thisrulewidth=\dimen146
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen147
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box33
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks32
+\MT@count=\count132
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen148
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count133
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip70
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count134
+\lst@gtempboxa=\box34
+\lst@token=\toks33
+\lst@length=\count135
+\lst@currlwidth=\dimen149
+\lst@column=\count136
+\lst@pos=\count137
+\lst@lostspace=\dimen150
+\lst@width=\dimen151
+\lst@newlines=\count138
+\lst@lineno=\count139
+\lst@maxwidth=\dimen152
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count140
+\lst@skipnumbers=\count141
+\lst@framebox=\box35
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2015/06/15 v0.4y Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count142
+\calc@Bcount=\count143
+\calc@Adimen=\dimen153
+\calc@Bdimen=\dimen154
+\calc@Askip=\skip71
+\calc@Bskip=\skip72
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count144
+\calc@Cskip=\skip73
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
+)
+\AM@pagewidth=\dimen155
+\AM@pageheight=\dimen156
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2015/06/15 v0.4y Pdfpages driver for pdfTeX (AM)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+\AM@pagebox=\box36
+\AM@toc@title=\toks34
+\c@AM@survey=\count145
+\AM@templatesizebox=\box37
+)
+(E:\Dropbox\Tese\Documento\Thesis.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 68.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+Package geometry Warning: The marginal notes overrun the paper.
+     Add 50.86812pt and more to the right margin.
+
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=111.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count146
+\scratchdimen=\dimen157
+\scratchbox=\box38
+\nofMPsegments=\count147
+\nofMParguments=\count148
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count149
+\MPscratchDim=\dimen158
+\MPnumerator=\count150
+\makeMPintoPDFobject=\count151
+\everyMPtoPDFconversion=\toks36
+)
+\AtBeginShipoutBox=\box39
+Package hyperref Info: Link coloring ON on input line 68.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count152
+)
+LaTeX Info: Redefining \ref on input line 68.
+LaTeX Info: Redefining \pageref on input line 68.
+LaTeX Info: Redefining \nameref on input line 68.
+
+(E:\Dropbox\Tese\Documento\Thesis.out) (E:\Dropbox\Tese\Documento\Thesis.out)
+\@outlinefile=\write6
+LaTeX Info: Redefining \microtypecontext on input line 68.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2),
+(microtype)             factor: 1100.
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 10, shrink: 10, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: Tracking enabled.
+Package microtype Info: Using default tracking set `smallcaps'.
+Package microtype Info: Adjustment of interword spacing enabled.
+Package microtype Info: Using default spacing set `basictext'.
+Package microtype Info: Adjustment of character kerning enabled.
+Package microtype Info: Using default kerning set `alltext'.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `phv' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+\c@lstlisting=\count153
+
+(E:\Dropbox\Tese\Documento\Thesis_FrontCover.tex
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 15.
+
+<Figures/afa.png, id=291, 571.13374pt x 770.88pt>
+File: Figures/afa.png Graphic file (type png)
+ <use Figures/afa.png>
+Package pdftex.def Info: Figures/afa.png used on input line 15.
+(pdftex.def)             Requested size: -40.54341pt x -64.01593pt.
+
+<Figures/TCAS.jpg, id=293, 491.8375pt x 301.125pt>
+File: Figures/TCAS.jpg Graphic file (type jpg)
+ <use Figures/TCAS.jpg>
+Package pdftex.def Info: Figures/TCAS.jpg used on input line 22.
+(pdftex.def)             Requested size: 232.37192pt x 142.26378pt.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 26.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `phv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 32.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) [1
+
+{C:/Users/Miguel Fonseca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <E:
+/Dropbox/Tese/Documento/Figures/afa.png> <E:/Dropbox/Tese/Documento/Figures/TCA
+S.jpg>]
+[2
+
+]) (E:\Dropbox\Tese\Documento\Thesis_Acknowledgements.tex
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 11.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 26.
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+[3] [4
+
+]) (E:\Dropbox\Tese\Documento\Thesis_Resumo.tex
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 20.
+ [5] [6
+
+])
+(E:\Dropbox\Tese\Documento\Thesis_Abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+[7] [8
+
+])
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 103.
+ (E:\Dropbox\Tese\Documento\Thesis.toc
+Overfull \hbox (1.15988pt too wide) detected at line 7
+ []\OT1/phv/m/n/10 xviii
+ []
+
+[9
+
+] [10])
+\tf@toc=\write7
+ [11] [12
+
+] (E:\Dropbox\Tese\Documento\Thesis.lot)
+\tf@lot=\write8
+ [13
+
+] [14
+
+]
+(E:\Dropbox\Tese\Documento\Thesis.lof [15
+
+])
+\tf@lof=\write9
+ [16]
+(E:\Dropbox\Tese\Documento\Thesis_Nomenclature.tex)
+(E:\Dropbox\Tese\Documento\Thesis.nls [17
+
+
+]) [18]
+(E:\Dropbox\Tese\Documento\Thesis_Glossary.tex)
+(E:\Dropbox\Tese\Documento\Thesis.gls)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19
+
+
+]
+[20
+
+] (E:\Dropbox\Tese\Documento\Thesis_Introduction.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 11.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+
+ []
+
+[1
+
+]
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 31.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+[3] [4
+
+]) (E:\Dropbox\Tese\Documento\Thesis_StateofArt.tex
+Chapter 2.
+<Figures/UAS.png, id=702, 569.12625pt x 369.38pt>
+File: Figures/UAS.png Graphic file (type png)
+ <use Figures/UAS.png>
+Package pdftex.def Info: Figures/UAS.png used on input line 21.
+(pdftex.def)             Requested size: 227.62206pt x 147.73247pt.
+
+[5
+
+ <E:/Dropbox/Tese/Documento/Figures/UAS.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+[6] <Figures/separationzones.png, id=737, 613.29124pt x 493.845pt>
+File: Figures/separationzones.png Graphic file (type png)
+
+<use Figures/separationzones.png>
+Package pdftex.def Info: Figures/separationzones.png used on input line 47.
+(pdftex.def)             Requested size: 318.66948pt x 256.60495pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \vbox (badness 1540) has occurred while \output is active []
+
+ [7 <E:/Dropbox/Tese/Documento/Figures/separationzones.png>]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 54.
+ [8] [9] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+
+ []
+
+<Figures/modes.png, id=786, 814.04124pt x 262.9825pt>
+File: Figures/modes.png Graphic file (type png)
+ <use Figures/modes.png>
+Package pdftex.def Info: Figures/modes.png used on input line 111.
+(pdftex.def)             Requested size: 364.19667pt x 117.65483pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--124
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 2608) has occurred while \output is active []
+
+ [12 <E:/Dropbox/Tese/Documento/Figures/modes.png>]
+<Figures/navigationlights.png, id=819, 564.60938pt x 813.0375pt>
+File: Figures/navigationlights.png Graphic file (type png)
+
+<use Figures/navigationlights.png>
+Package pdftex.def Info: Figures/navigationlights.png used on input line 146.
+(pdftex.def)             Requested size: 159.33821pt x 229.4478pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--156
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+[14 <E:/Dropbox/Tese/Documento/Figures/navigationlights.png>]
+<Figures/suppression.png, id=853, 399.4925pt x 421.575pt>
+File: Figures/suppression.png Graphic file (type png)
+
+<use Figures/suppression.png>
+Package pdftex.def Info: Figures/suppression.png used on input line 187.
+(pdftex.def)             Requested size: 159.33821pt x 168.14455pt.
+
+<Figures/suppressionpulses.png, id=855, 291.0875pt x 229.85875pt>
+File: Figures/suppressionpulses.png Graphic file (type png)
+
+<use Figures/suppressionpulses.png>
+Package pdftex.def Info: Figures/suppressionpulses.png used on input line 194.
+(pdftex.def)             Requested size: 159.33821pt x 125.82292pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
+
+ []
+
+[15 <E:/Dropbox/Tese/Documento/Figures/suppression.png>]
+<Figures/suppressionmodes.png, id=865, 552.0625pt x 140.525pt>
+File: Figures/suppressionmodes.png Graphic file (type png)
+
+<use Figures/suppressionmodes.png>
+Package pdftex.def Info: Figures/suppressionmodes.png used on input line 204.
+(pdftex.def)             Requested size: 227.62206pt x 57.94153pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+[16 <E:/Dropbox/Tese/Documento/Figures/suppressionpulses.png> <E:/Dropbox/Tese/
+Documento/Figures/suppressionmodes.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 220--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+<Figures/tcasvolume.png, id=889, 891.33pt x 629.35126pt>
+File: Figures/tcasvolume.png Graphic file (type png)
+
+<use Figures/tcasvolume.png>
+Package pdftex.def Info: Figures/tcasvolume.png used on input line 243.
+(pdftex.def)             Requested size: 409.71692pt x 289.29382pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+
+ []
+
+<Figures/TCAShardware.png, id=892, 803.0pt x 476.78125pt>
+File: Figures/TCAShardware.png Graphic file (type png)
+
+<use Figures/TCAShardware.png>
+Package pdftex.def Info: Figures/TCAShardware.png used on input line 252.
+(pdftex.def)             Requested size: 409.71692pt x 243.2716pt.
+ [17] [18 <E:/Dropbox/Tese/Documento/Figures/tcasvolume.png> <E:/Dropbox/Tese/D
+ocumento/Figures/TCAShardware.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 266--268
+
+ []
+
+<Figures/ADS-B2.png, id=920, 1196.47pt x 859.21pt>
+File: Figures/ADS-B2.png Graphic file (type png)
+ <use Figures/ADS-B2.png>
+Package pdftex.def Info: Figures/ADS-B2.png used on input line 280.
+(pdftex.def)             Requested size: 409.71692pt x 294.22522pt.
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 301--310
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20 <E:/Dropbox/Tese/Documento/Figures/ADS-B2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+<Figures/midcas.jpg, id=958, 1282.7925pt x 427.5975pt>
+File: Figures/midcas.jpg Graphic file (type jpg)
+
+<use Figures/midcas.jpg>
+Package pdftex.def Info: Figures/midcas.jpg used on input line 326.
+(pdftex.def)             Requested size: 409.71692pt x 136.573pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--347
+
+ []
+
+[22 <E:/Dropbox/Tese/Documento/Figures/midcas.jpg>]
+<Figures/Geyer1.png, id=973, 816.04875pt x 509.905pt>
+File: Figures/Geyer1.png Graphic file (type png)
+ <use Figures/Geyer1.png>
+Package pdftex.def Info: Figures/Geyer1.png used on input line 360.
+(pdftex.def)             Requested size: 409.71692pt x 256.01001pt.
+
+[23] [24 <E:/Dropbox/Tese/Documento/Figures/Geyer1.png>]
+<Figures/symphony.png, id=998, 1300.86pt x 811.03pt>
+File: Figures/symphony.png Graphic file (type png)
+
+<use Figures/symphony.png>
+Package pdftex.def Info: Figures/symphony.png used on input line 401.
+(pdftex.def)             Requested size: 409.71692pt x 255.43867pt.
+ [25]
+<Figures/Pancas.jpg, id=1011, 56.46094pt x 25.84656pt>
+File: Figures/Pancas.jpg Graphic file (type jpg)
+
+<use Figures/Pancas.jpg>
+Package pdftex.def Info: Figures/Pancas.jpg used on input line 412.
+(pdftex.def)             Requested size: 341.43307pt x 156.36458pt.
+ <Figures/skyward.png, id=1016, 1204.5pt x 652.4375pt>
+File: Figures/skyward.png Graphic file (type png)
+
+<use Figures/skyward.png>
+Package pdftex.def Info: Figures/skyward.png used on input line 424.
+(pdftex.def)             Requested size: 409.71692pt x 221.92537pt.
+ [26 <E:/Dropbox/Tese/Documento/Figures/symphony.png> <E:/Dropbox/Tese/Document
+o/Figures/Pancas.jpg>]
+<Figures/aecas100.png, id=1027, 496.85625pt x 278.54062pt>
+File: Figures/aecas100.png Graphic file (type png)
+
+<use Figures/aecas100.png>
+Package pdftex.def Info: Figures/aecas100.png used on input line 441.
+(pdftex.def)             Requested size: 273.14923pt x 153.1298pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27 <E:/Dropbox/Tese/Documento/Figures/skyward.png (PNG copy)> <E:/Dropbox/Tes
+e/Documento/Figures/aecas100.png>]
+<Figures/guidance.png, id=1037, 452.69125pt x 323.2075pt>
+File: Figures/guidance.png Graphic file (type png)
+
+<use Figures/guidance.png>
+Package pdftex.def Info: Figures/guidance.png used on input line 453.
+(pdftex.def)             Requested size: 273.14923pt x 195.02084pt.
+
+<Figures/unilight.png, id=1042, 430.7292pt x 257.2812pt>
+File: Figures/unilight.png Graphic file (type png)
+
+<use Figures/unilight.png>
+Package pdftex.def Info: Figures/unilight.png used on input line 468.
+(pdftex.def)             Requested size: 273.14923pt x 163.15976pt.
+)
+(E:\Dropbox\Tese\Documento\Thesis_VisualSolution.tex [28 <E:/Dropbox/Tese/Docum
+ento/Figures/guidance.png>] [29 <E:/Dropbox/Tese/Documento/Figures/unilight.png
+>]
+Chapter 3.
+[30
+
+] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+[32]
+Overfull \hbox (1.44199pt too wide) in paragraph at lines 119--140
+ [][] 
+ []
+
+[33] <Figures/esquemalights2.png, id=1102, 712.91344pt x 376.40625pt>
+File: Figures/esquemalights2.png Graphic file (type png)
+
+<use Figures/esquemalights2.png>
+Package pdftex.def Info: Figures/esquemalights2.png used on input line 165.
+(pdftex.def)             Requested size: 409.71692pt x 216.32277pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+[35 <E:/Dropbox/Tese/Documento/Figures/esquemalights2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--198
+
+ []
+
+
+Overfull \hbox (24.25217pt too wide) in paragraph at lines 199--203
+\OT1/phv/m/n/10 (-10) The LED se-lected for the anti-collision light is the Su-
+per Flux Pure White LED with part num-ber OSWA4EZ2C1P-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--203
+
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 204--206
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 207.
+<Figures/arduinoahpperc.png, id=1134, 426.84468pt x 221.32687pt>
+File: Figures/arduinoahpperc.png Graphic file (type png)
+
+<use Figures/arduinoahpperc.png>
+Package pdftex.def Info: Figures/arduinoahpperc.png used on input line 212.
+(pdftex.def)             Requested size: 409.71692pt x 212.46123pt.
+ [37 <E:/Dropbox/Tese/Documento/Figures/arduinoahpperc.png>] <Figures/table1.pn
+g, id=1141, 2714.64188pt x 1589.94pt>
+File: Figures/table1.png Graphic file (type png)
+
+<use Figures/table1.png>
+Package pdftex.def Info: Figures/table1.png used on input line 223.
+(pdftex.def)             Requested size: 386.96027pt x 226.61732pt.
+
+<Figures/ahpresults.png, id=1143, 2717.65312pt x 2137.9875pt>
+File: Figures/ahpresults.png Graphic file (type png)
+
+<use Figures/ahpresults.png>
+Package pdftex.def Info: Figures/ahpresults.png used on input line 232.
+(pdftex.def)             Requested size: 341.43307pt x 268.58533pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+ []
+
+[38 <E:/Dropbox/Tese/Documento/Figures/table1.png> <E:/Dropbox/Tese/Documento/F
+igures/ahpresults.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 238--241
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+
+ []
+
+
+<Figures/EsquemasLights/leftpositionlight.png, id=1158, 214.20828pt x 39.31488p
+t>
+File: Figures/EsquemasLights/leftpositionlight.png Graphic file (type png)
+ <use Figures/EsquemasLights/leftpositionlight.png>
+Package pdftex.def Info: Figures/EsquemasLights/leftpositionlight.png used on i
+nput line 251.
+(pdftex.def)             Requested size: 214.20775pt x 39.31476pt.
+
+<Figures/EsquemasLights/rightpositionlight.png, id=1159, 163.3302pt x 59.55048p
+t>
+File: Figures/EsquemasLights/rightpositionlight.png Graphic file (type png)
+ <use Figures/EsquemasLights/rightpositionlight.png>
+Package pdftex.def Info: Figures/EsquemasLights/rightpositionlight.png used on 
+input line 256.
+(pdftex.def)             Requested size: 163.32979pt x 59.55032pt.
+
+<Figures/EsquemasLights/rearpositionlight.png, id=1160, 169.40088pt x 105.22511
+pt>
+File: Figures/EsquemasLights/rearpositionlight.png Graphic file (type png)
+ <use Figures/EsquemasLights/rearpositionlight.png>
+Package pdftex.def Info: Figures/EsquemasLights/rearpositionlight.png used on i
+nput line 260.
+(pdftex.def)             Requested size: 169.40045pt x 105.22484pt.
+
+<Figures/EsquemasLights/anticollisionlight.png, id=1161, 183.85487pt x 50.29993
+pt>
+File: Figures/EsquemasLights/anticollisionlight.png Graphic file (type png)
+ <use Figures/EsquemasLights/anticollisionlight.png>
+Package pdftex.def Info: Figures/EsquemasLights/anticollisionlight.png used on 
+input line 265.
+(pdftex.def)             Requested size: 183.85442pt x 50.29979pt.
+ [39] [40 <E:/Dropbox/Tese/Documento/Figures/EsquemasLights/leftpositionlight.p
+ng> <E:/Dropbox/Tese/Documento/Figures/EsquemasLights/rightpositionlight.png> <
+E:/Dropbox/Tese/Documento/Figures/EsquemasLights/rearpositionlight.png> <E:/Dro
+pbox/Tese/Documento/Figures/EsquemasLights/anticollisionlight.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
+<Figures/testeesquemaleds.png, id=1206, 333.245pt x 187.099pt>
+File: Figures/testeesquemaleds.png Graphic file (type png)
+
+<use Figures/testeesquemaleds.png>
+Package pdftex.def Info: Figures/testeesquemaleds.png used on input line 346.
+(pdftex.def)             Requested size: 409.71692pt x 230.05045pt.
+
+<Figures/LightsTestDiagram.png, id=1207, 298.86656pt x 201.75375pt>
+File: Figures/LightsTestDiagram.png Graphic file (type png)
+
+<use Figures/LightsTestDiagram.png>
+Package pdftex.def Info: Figures/LightsTestDiagram.png used on input line 353.
+(pdftex.def)             Requested size: 298.86581pt x 201.75325pt.
+
+<Figures/ranges2.png, id=1209, 908.39375pt x 200.75pt>
+File: Figures/ranges2.png Graphic file (type png)
+
+<use Figures/ranges2.png>
+Package pdftex.def Info: Figures/ranges2.png used on input line 360.
+(pdftex.def)             Requested size: 409.71692pt x 90.54495pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--367
+
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 371--373
+
+ []
+
+
+Underfull \vbox (badness 2591) has occurred while \output is active []
+
+ [42 <E:/Dropbox/Tese/Documento/Figures/testeesquemaleds.png> <E:/Dropbox/Tese/
+Documento/Figures/LightsTestDiagram.png> <E:/Dropbox/Tese/Documento/Figures/ran
+ges2.png>]
+<Figures/esquemalights3.png, id=1225, 501.875pt x 511.9125pt>
+File: Figures/esquemalights3.png Graphic file (type png)
+
+<use Figures/esquemalights3.png>
+Package pdftex.def Info: Figures/esquemalights3.png used on input line 376.
+(pdftex.def)             Requested size: 273.14923pt x 278.62357pt.
+
+<Figures/schematicluzes.png, id=1227, 392.57063pt x 289.94724pt>
+File: Figures/schematicluzes.png Graphic file (type png)
+
+<use Figures/schematicluzes.png>
+Package pdftex.def Info: Figures/schematicluzes.png used on input line 385.
+(pdftex.def)             Requested size: 364.19667pt x 268.99335pt.
+ [43 <E:/Dropbox/Tese/Documento/Figures/esquemalights3.png>]
+<Figures/visualprototype1.png, id=1239, 735.74875pt x 471.7625pt>
+File: Figures/visualprototype1.png Graphic file (type png)
+
+<use Figures/visualprototype1.png>
+Package pdftex.def Info: Figures/visualprototype1.png used on input line 425.
+(pdftex.def)             Requested size: 204.85846pt x 131.35115pt.
+
+<Figures/visualprototype2.png, id=1240, 2942.995pt x 1887.05pt>
+File: Figures/visualprototype2.png Graphic file (type png)
+
+<use Figures/visualprototype2.png>
+Package pdftex.def Info: Figures/visualprototype2.png used on input line 430.
+(pdftex.def)             Requested size: 204.85846pt x 131.32956pt.
+ [44 <E:/Dropbox/Tese/Documento/Figures/schematicluzes.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
+
+ []
+
+<Figures/visualground.png, id=1258, 1758.57pt x 1264.725pt>
+File: Figures/visualground.png Graphic file (type png)
+
+<use Figures/visualground.png>
+Package pdftex.def Info: Figures/visualground.png used on input line 445.
+(pdftex.def)             Requested size: 204.85846pt x 147.32188pt.
+
+<Figures/visualflying.png, id=1259, 1758.57pt x 1264.725pt>
+File: Figures/visualflying.png Graphic file (type png)
+
+<use Figures/visualflying.png>
+Package pdftex.def Info: Figures/visualflying.png used on input line 450.
+(pdftex.def)             Requested size: 204.85846pt x 147.32188pt.
+)
+(E:\Dropbox\Tese\Documento\Thesis_IRSolution.tex [45 <E:/Dropbox/Tese/Documento
+/Figures/visualprototype1.png> <E:/Dropbox/Tese/Documento/Figures/visualprototy
+pe2.png> <E:/Dropbox/Tese/Documento/Figures/visualground.png> <E:/Dropbox/Tese/
+Documento/Figures/visualflying.png>]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+
+ []
+
+<Figures/spectrum.png, id=1277, 683.55376pt x 433.62pt>
+File: Figures/spectrum.png Graphic file (type png)
+
+<use Figures/spectrum.png>
+Package pdftex.def Info: Figures/spectrum.png used on input line 24.
+(pdftex.def)             Requested size: 364.19667pt x 231.03494pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+[46
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
+
+ []
+
+<Figures/SolarSpectrum.png, id=1295, 803.0pt x 555.07375pt>
+File: Figures/SolarSpectrum.png Graphic file (type png)
+
+<use Figures/SolarSpectrum.png>
+Package pdftex.def Info: Figures/SolarSpectrum.png used on input line 41.
+(pdftex.def)             Requested size: 318.66948pt x 220.28079pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47 <E:/Dropbox/Tese/Documento/Figures/spectrum.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+[48 <E:/Dropbox/Tese/Documento/Figures/SolarSpectrum.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+
+ []
+
+
+Underfull \vbox (badness 2503) has occurred while \output is active []
+
+ [49]
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+
+ []
+
+<Figures/rc5protocol.jpg, id=1349, 800.9925pt x 963.6pt>
+File: Figures/rc5protocol.jpg Graphic file (type jpg)
+
+<use Figures/rc5protocol.jpg>
+Package pdftex.def Info: Figures/rc5protocol.jpg used on input line 71.
+(pdftex.def)             Requested size: 409.71692pt x 492.89984pt.
+ [50]
+<Figures/receiverfrequency.png, id=1359, 515.9275pt x 422.57875pt>
+File: Figures/receiverfrequency.png Graphic file (type png)
+
+<use Figures/receiverfrequency.png>
+Package pdftex.def Info: Figures/receiverfrequency.png used on input line 85.
+(pdftex.def)             Requested size: 318.66948pt x 261.016pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+[51 <E:/Dropbox/Tese/Documento/Figures/rc5protocol.jpg>]
+<Figures/esquemaIR16.png, id=1367, 1003.75pt x 1003.75pt>
+File: Figures/esquemaIR16.png Graphic file (type png)
+
+<use Figures/esquemaIR16.png>
+Package pdftex.def Info: Figures/esquemaIR16.png used on input line 106.
+(pdftex.def)             Requested size: 364.19667pt x 364.1985pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+[52 <E:/Dropbox/Tese/Documento/Figures/receiverfrequency.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+<Figures/blocoscompleto.png, id=1374, 903.375pt x 435.6275pt>
+File: Figures/blocoscompleto.png Graphic file (type png)
+
+<use Figures/blocoscompleto.png>
+Package pdftex.def Info: Figures/blocoscompleto.png used on input line 127.
+(pdftex.def)             Requested size: 364.19667pt x 175.62387pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
+
+ []
+
+[53 <E:/Dropbox/Tese/Documento/Figures/esquemaIR16.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+[54 <E:/Dropbox/Tese/Documento/Figures/blocoscompleto.png>]
+<Figures/ledintensity.png, id=1395, 493.845pt x 429.605pt>
+File: Figures/ledintensity.png Graphic file (type png)
+
+<use Figures/ledintensity.png>
+Package pdftex.def Info: Figures/ledintensity.png used on input line 155.
+(pdftex.def)             Requested size: 273.14923pt x 237.61418pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+[55 <E:/Dropbox/Tese/Documento/Figures/ledintensity.png>]
+<Figures/EsquemasLights/IRlight.png, id=1404, 314.67563pt x 161.10187pt>
+File: Figures/EsquemasLights/IRlight.png Graphic file (type png)
+
+<use Figures/EsquemasLights/IRlight.png>
+Package pdftex.def Info: Figures/EsquemasLights/IRlight.png used on input line 
+167.
+(pdftex.def)             Requested size: 182.09486pt x 93.22528pt.
+
+<Figures/irlightcurrent.png, id=1407, 469.755pt x 413.545pt>
+File: Figures/irlightcurrent.png Graphic file (type png)
+
+<use Figures/irlightcurrent.png>
+Package pdftex.def Info: Figures/irlightcurrent.png used on input line 175.
+(pdftex.def)             Requested size: 273.14923pt x 240.46204pt.
+ [56 <E:/Dropbox/Tese/Documento/Figures/EsquemasLights/IRlight.png> <E:/Dropbox
+/Tese/Documento/Figures/irlightcurrent.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--209
+
+ []
+
+<Figures/messagecode.png, id=1422, 1942.25626pt x 1329.46687pt>
+File: Figures/messagecode.png Graphic file (type png)
+
+<use Figures/messagecode.png>
+Package pdftex.def Info: Figures/messagecode.png used on input line 213.
+(pdftex.def)             Requested size: 364.19667pt x 249.27443pt.
+
+<Figures/IRspacestate.png, id=1425, 626.34pt x 409.53pt>
+File: Figures/IRspacestate.png Graphic file (type png)
+
+<use Figures/IRspacestate.png>
+Package pdftex.def Info: Figures/IRspacestate.png used on input line 221.
+(pdftex.def)             Requested size: 409.71692pt x 267.8973pt.
+ [57]
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--234
+
+ []
+
+[58 <E:/Dropbox/Tese/Documento/Figures/messagecode.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+[59 <E:/Dropbox/Tese/Documento/Figures/IRspacestate.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+Overfull \hbox (33.98601pt too wide) in paragraph at lines 243--244
+[]\OT1/phv/m/n/10 (-10) The fi-nal code used with the pro-to-type can be seen a
+t https://github.com/MBSFonseca/SenseAndAvoidThesis. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--267
+
+ []
+
+<Figures/ranges1.png, id=1449, 788.9475pt x 271.0125pt>
+File: Figures/ranges1.png Graphic file (type png)
+
+<use Figures/ranges1.png>
+Package pdftex.def Info: Figures/ranges1.png used on input line 273.
+(pdftex.def)             Requested size: 318.66948pt x 109.46585pt.
+
+<Figures/ranges3.png, id=1451, 788.9475pt x 271.0125pt>
+File: Figures/ranges3.png Graphic file (type png)
+
+<use Figures/ranges3.png>
+Package pdftex.def Info: Figures/ranges3.png used on input line 281.
+(pdftex.def)             Requested size: 318.66948pt x 109.46585pt.
+ [60]
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+<Figures/testirconditions.png, id=1457, 1346.02875pt x 230.8625pt>
+File: Figures/testirconditions.png Graphic file (type png)
+
+<use Figures/testirconditions.png>
+Package pdftex.def Info: Figures/testirconditions.png used on input line 294.
+(pdftex.def)             Requested size: 455.24411pt x 78.08005pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--337
+
+ []
+
+[61 <E:/Dropbox/Tese/Documento/Figures/ranges1.png> <E:/Dropbox/Tese/Documento/
+Figures/ranges3.png> <E:/Dropbox/Tese/Documento/Figures/testirconditions.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 338--340
+
+ []
+
+<Figures/transmitterboard.png, id=1469, 243.68541pt x 243.68541pt>
+File: Figures/transmitterboard.png Graphic file (type png)
+
+<use Figures/transmitterboard.png>
+Package pdftex.def Info: Figures/transmitterboard.png used on input line 347.
+(pdftex.def)             Requested size: 204.85846pt x 204.86911pt.
+
+<Figures/receiverboard.png, id=1470, 240.15877pt x 240.15877pt>
+File: Figures/receiverboard.png Graphic file (type png)
+
+<use Figures/receiverboard.png>
+Package pdftex.def Info: Figures/receiverboard.png used on input line 352.
+(pdftex.def)             Requested size: 204.85846pt x 204.85782pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--370
+
+ []
+
+<Figures/pcb2.png, id=1474, 650.43pt x 583.17876pt>
+File: Figures/pcb2.png Graphic file (type png)
+ <use Figures/pcb2.png>
+Package pdftex.def Info: Figures/pcb2.png used on input line 376.
+(pdftex.def)             Requested size: 136.57462pt x 122.45335pt.
+
+<Figures/pcb1.png, id=1475, 650.43pt x 583.17876pt>
+File: Figures/pcb1.png Graphic file (type png)
+ <use Figures/pcb1.png>
+Package pdftex.def Info: Figures/pcb1.png used on input line 381.
+(pdftex.def)             Requested size: 136.57462pt x 122.45335pt.
+
+<Figures/pcb4.png, id=1476, 650.43pt x 583.17876pt>
+File: Figures/pcb4.png Graphic file (type png)
+ <use Figures/pcb4.png>
+Package pdftex.def Info: Figures/pcb4.png used on input line 385.
+(pdftex.def)             Requested size: 136.57462pt x 122.45335pt.
+
+<Figures/pcb5.png, id=1477, 583.17876pt x 630.355pt>
+File: Figures/pcb5.png Graphic file (type png)
+ <use Figures/pcb5.png>
+Package pdftex.def Info: Figures/pcb5.png used on input line 390.
+(pdftex.def)             Requested size: 136.57462pt x 147.62366pt.
+
+<Figures/twoprototypes.png, id=1487, 1862.96pt x 811.03pt>
+File: Figures/twoprototypes.png Graphic file (type png)
+
+<use Figures/twoprototypes.png>
+Package pdftex.def Info: Figures/twoprototypes.png used on input line 402.
+(pdftex.def)             Requested size: 364.19667pt x 158.5524pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--412
+
+ []
+
+[62] [63 <E:/Dropbox/Tese/Documento/Figures/transmitterboard.png (PNG copy)> <E
+:/Dropbox/Tese/Documento/Figures/receiverboard.png (PNG copy)> <E:/Dropbox/Tese
+/Documento/Figures/pcb2.png> <E:/Dropbox/Tese/Documento/Figures/pcb1.png> <E:/D
+ropbox/Tese/Documento/Figures/pcb4.png> <E:/Dropbox/Tese/Documento/Figures/pcb5
+.png>] <Figures/printedbox2.png, id=1508, 631.35875pt x 512.91624pt>
+File: Figures/printedbox2.png Graphic file (type png)
+
+<use Figures/printedbox2.png>
+Package pdftex.def Info: Figures/printedbox2.png used on input line 418.
+(pdftex.def)             Requested size: 204.85846pt x 166.4297pt.
+
+<Figures/printedbox3.png, id=1509, 631.35875pt x 512.91624pt>
+File: Figures/printedbox3.png Graphic file (type png)
+
+<use Figures/printedbox3.png>
+Package pdftex.def Info: Figures/printedbox3.png used on input line 423.
+(pdftex.def)             Requested size: 204.85846pt x 166.4297pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
+
+ []
+
+<Figures/irprototype1.png, id=1514, 2665.96pt x 1582.91376pt>
+File: Figures/irprototype1.png Graphic file (type png)
+
+<use Figures/irprototype1.png>
+Package pdftex.def Info: Figures/irprototype1.png used on input line 437.
+(pdftex.def)             Requested size: 204.85846pt x 121.6118pt.
+
+<Figures/irprototype2.png, id=1515, 2665.96pt x 1585.925pt>
+File: Figures/irprototype2.png Graphic file (type png)
+
+<use Figures/irprototype2.png>
+Package pdftex.def Info: Figures/irprototype2.png used on input line 442.
+(pdftex.def)             Requested size: 204.85846pt x 121.84314pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--457
+
+ []
+
+[64 <E:/Dropbox/Tese/Documento/Figures/twoprototypes.png> <E:/Dropbox/Tese/Docu
+mento/Figures/printedbox2.png> <E:/Dropbox/Tese/Documento/Figures/printedbox3.p
+ng>] <Figures/irprototype3.png, id=1530, 1381.16pt x 1276.77pt>
+File: Figures/irprototype3.png Graphic file (type png)
+
+<use Figures/irprototype3.png>
+Package pdftex.def Info: Figures/irprototype3.png used on input line 460.
+(pdftex.def)             Requested size: 273.14923pt x 252.48563pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--472
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65 <E:/Dropbox/Tese/Documento/Figures/irprototype1.png> <E:/Dropbox/Tese/Docu
+mento/Figures/irprototype2.png> <E:/Dropbox/Tese/Documento/Figures/irprototype3
+.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 473--475
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--488
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+
+ []
+
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--497
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--518
+
+ []
+
+<Figures/VL-Rules3.jpg, id=1549, 389.455pt x 518.93875pt>
+File: Figures/VL-Rules3.jpg Graphic file (type jpg)
+
+<use Figures/VL-Rules3.jpg>
+Package pdftex.def Info: Figures/VL-Rules3.jpg used on input line 524.
+(pdftex.def)             Requested size: 113.81102pt x 151.64445pt.
+
+<Figures/VL-Rules4.jpg, id=1550, 460.72125pt x 386.44376pt>
+File: Figures/VL-Rules4.jpg Graphic file (type jpg)
+
+<use Figures/VL-Rules4.jpg>
+Package pdftex.def Info: Figures/VL-Rules4.jpg used on input line 528.
+(pdftex.def)             Requested size: 150.23138pt x 126.01138pt.
+
+<Figures/VL-Rules5.jpg, id=1551, 243.91125pt x 389.455pt>
+File: Figures/VL-Rules5.jpg Graphic file (type jpg)
+
+<use Figures/VL-Rules5.jpg>
+Package pdftex.def Info: Figures/VL-Rules5.jpg used on input line 532.
+(pdftex.def)             Requested size: 113.81102pt x 181.72461pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--545
+
+ []
+
+[67])
+Underfull \hbox (badness 10000) in paragraph at lines 546--157
+
+ []
+
+(E:\Dropbox\Tese\Documento\Thesis_Results.tex [68 <E:/Dropbox/Tese/Documento/Fi
+gures/VL-Rules3.jpg> <E:/Dropbox/Tese/Documento/Figures/VL-Rules4.jpg> <E:/Drop
+box/Tese/Documento/Figures/VL-Rules5.jpg>]
+Chapter 5.
+<Figures/Statistics/LeftPosition.png, id=1576, 482.80376pt x 290.08376pt>
+File: Figures/Statistics/LeftPosition.png Graphic file (type png)
+
+<use Figures/Statistics/LeftPosition.png>
+Package pdftex.def Info: Figures/Statistics/LeftPosition.png used on input line
+ 24.
+(pdftex.def)             Requested size: 204.85846pt x 123.08257pt.
+
+<Figures/Statistics/RightPosition.png, id=1577, 482.80376pt x 290.08376pt>
+File: Figures/Statistics/RightPosition.png Graphic file (type png)
+
+<use Figures/Statistics/RightPosition.png>
+Package pdftex.def Info: Figures/Statistics/RightPosition.png used on input lin
+e 29.
+(pdftex.def)             Requested size: 204.85846pt x 123.08257pt.
+
+<Figures/Statistics/RearPosition.png, id=1578, 482.80376pt x 290.08376pt>
+File: Figures/Statistics/RearPosition.png Graphic file (type png)
+
+<use Figures/Statistics/RearPosition.png>
+Package pdftex.def Info: Figures/Statistics/RearPosition.png used on input line
+ 33.
+(pdftex.def)             Requested size: 204.85846pt x 123.08257pt.
+
+<Figures/Statistics/AntiCollision.png, id=1579, 482.80376pt x 290.08376pt>
+File: Figures/Statistics/AntiCollision.png Graphic file (type png)
+
+<use Figures/Statistics/AntiCollision.png>
+Package pdftex.def Info: Figures/Statistics/AntiCollision.png used on input lin
+e 38.
+(pdftex.def)             Requested size: 204.85846pt x 123.08257pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
+
+ []
+
+[69
+
+] <Figures/Optimization/tx.png, id=1604, 245.91875pt x 179.67125pt>
+File: Figures/Optimization/tx.png Graphic file (type png)
+
+<use Figures/Optimization/tx.png>
+Package pdftex.def Info: Figures/Optimization/tx.png used on input line 64.
+(pdftex.def)             Requested size: 182.09486pt x 133.04509pt.
+
+<Figures/Optimization/a.png, id=1605, 245.91875pt x 179.67125pt>
+File: Figures/Optimization/a.png Graphic file (type png)
+
+<use Figures/Optimization/a.png>
+Package pdftex.def Info: Figures/Optimization/a.png used on input line 69.
+(pdftex.def)             Requested size: 182.09486pt x 133.04509pt.
+
+<Figures/Optimization/rec.png, id=1606, 245.91875pt x 178.6675pt>
+File: Figures/Optimization/rec.png Graphic file (type png)
+
+<use Figures/Optimization/rec.png>
+Package pdftex.def Info: Figures/Optimization/rec.png used on input line 73.
+(pdftex.def)             Requested size: 182.09486pt x 132.30183pt.
+
+<Figures/Optimization/rc5.png, id=1607, 245.91875pt x 178.6675pt>
+File: Figures/Optimization/rc5.png Graphic file (type png)
+
+<use Figures/Optimization/rc5.png>
+Package pdftex.def Info: Figures/Optimization/rc5.png used on input line 78.
+(pdftex.def)             Requested size: 182.09486pt x 132.30183pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+<Figures/Optimization/txrc5.png, id=1618, 494.84875pt x 381.425pt>
+File: Figures/Optimization/txrc5.png Graphic file (type png)
+
+<use Figures/Optimization/txrc5.png>
+Package pdftex.def Info: Figures/Optimization/txrc5.png used on input line 94.
+(pdftex.def)             Requested size: 204.85846pt x 157.89847pt.
+
+<Figures/Optimization/arc5.png, id=1619, 493.845pt x 380.42125pt>
+File: Figures/Optimization/arc5.png Graphic file (type png)
+
+<use Figures/Optimization/arc5.png>
+Package pdftex.def Info: Figures/Optimization/arc5.png used on input line 99.
+(pdftex.def)             Requested size: 204.85846pt x 157.8022pt.
+
+<Figures/Optimization/recrc5.png, id=1620, 493.845pt x 381.425pt>
+File: Figures/Optimization/recrc5.png Graphic file (type png)
+
+<use Figures/Optimization/recrc5.png>
+Package pdftex.def Info: Figures/Optimization/recrc5.png used on input line 103
+.
+(pdftex.def)             Requested size: 204.85846pt x 158.21857pt.
+
+<Figures/Optimization/txa.png, id=1621, 494.84875pt x 381.425pt>
+File: Figures/Optimization/txa.png Graphic file (type png)
+
+<use Figures/Optimization/txa.png>
+Package pdftex.def Info: Figures/Optimization/txa.png used on input line 108.
+(pdftex.def)             Requested size: 204.85846pt x 157.89847pt.
+
+<Figures/Optimization/txrec.png, id=1622, 494.84875pt x 381.425pt>
+File: Figures/Optimization/txrec.png Graphic file (type png)
+
+<use Figures/Optimization/txrec.png>
+Package pdftex.def Info: Figures/Optimization/txrec.png used on input line 112.
+
+(pdftex.def)             Requested size: 204.85846pt x 157.89847pt.
+
+<Figures/Optimization/arec.png, id=1623, 494.84875pt x 380.42125pt>
+File: Figures/Optimization/arec.png Graphic file (type png)
+
+<use Figures/Optimization/arec.png>
+Package pdftex.def Info: Figures/Optimization/arec.png used on input line 117.
+(pdftex.def)             Requested size: 204.85846pt x 157.48294pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
+
+ []
+
+[70 <E:/Dropbox/Tese/Documento/Figures/Statistics/LeftPosition.png> <E:/Dropbox
+/Tese/Documento/Figures/Statistics/RightPosition.png> <E:/Dropbox/Tese/Document
+o/Figures/Statistics/RearPosition.png> <E:/Dropbox/Tese/Documento/Figures/Stati
+stics/AntiCollision.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+<Figures/teste7m.png, id=1661, 388.45125pt x 388.45125pt>
+File: Figures/teste7m.png Graphic file (type png)
+
+<use Figures/teste7m.png>
+Package pdftex.def Info: Figures/teste7m.png used on input line 152.
+(pdftex.def)             Requested size: 182.09486pt x 182.09792pt.
+
+<Figures/receptor7m.png, id=1662, 388.45125pt x 388.45125pt>
+File: Figures/receptor7m.png Graphic file (type png)
+
+<use Figures/receptor7m.png>
+Package pdftex.def Info: Figures/receptor7m.png used on input line 157.
+(pdftex.def)             Requested size: 182.09486pt x 182.09792pt.
+
+<Figures/teste9m.png, id=1663, 388.45125pt x 388.45125pt>
+File: Figures/teste9m.png Graphic file (type png)
+
+<use Figures/teste9m.png>
+Package pdftex.def Info: Figures/teste9m.png used on input line 161.
+(pdftex.def)             Requested size: 182.09486pt x 182.09792pt.
+
+<Figures/receptor9m.png, id=1664, 388.45125pt x 388.45125pt>
+File: Figures/receptor9m.png Graphic file (type png)
+
+<use Figures/receptor9m.png>
+Package pdftex.def Info: Figures/receptor9m.png used on input line 166.
+(pdftex.def)             Requested size: 182.09486pt x 182.09792pt.
+
+<Figures/teste11m.png, id=1665, 388.45125pt x 388.45125pt>
+File: Figures/teste11m.png Graphic file (type png)
+
+<use Figures/teste11m.png>
+Package pdftex.def Info: Figures/teste11m.png used on input line 170.
+(pdftex.def)             Requested size: 182.09486pt x 182.09792pt.
+
+<Figures/receptor11m.png, id=1666, 388.45125pt x 388.45125pt>
+File: Figures/receptor11m.png Graphic file (type png)
+
+<use Figures/receptor11m.png>
+Package pdftex.def Info: Figures/receptor11m.png used on input line 175.
+(pdftex.def)             Requested size: 182.09486pt x 182.09792pt.
+ [71 <E:/Dropbox/Tese/Documento/Figures/Optimization/tx.png> <E:/Dropbox/Tese/D
+ocumento/Figures/Optimization/a.png> <E:/Dropbox/Tese/Documento/Figures/Optimiz
+ation/rec.png> <E:/Dropbox/Tese/Documento/Figures/Optimization/rc5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+[72 <E:/Dropbox/Tese/Documento/Figures/Optimization/txrc5.png> <E:/Dropbox/Tese
+/Documento/Figures/Optimization/arc5.png> <E:/Dropbox/Tese/Documento/Figures/Op
+timization/recrc5.png> <E:/Dropbox/Tese/Documento/Figures/Optimization/txa.png>
+ <E:/Dropbox/Tese/Documento/Figures/Optimization/txrec.png> <E:/Dropbox/Tese/Do
+cumento/Figures/Optimization/arec.png>] [73 <E:/Dropbox/Tese/Documento/Figures/
+teste7m.png> <E:/Dropbox/Tese/Documento/Figures/receptor7m.png> <E:/Dropbox/Tes
+e/Documento/Figures/teste9m.png> <E:/Dropbox/Tese/Documento/Figures/receptor9m.
+png> <E:/Dropbox/Tese/Documento/Figures/teste11m.png> <E:/Dropbox/Tese/Document
+o/Figures/receptor11m.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 195--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+LaTeX Font Info:    Try loading font information for OML+phv on input line 213.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlphv.fd"
+File: omlphv.fd 
+)
+LaTeX Font Info:    Font shape `OML/phv/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 213.
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
+
+ []
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+<Figures/Maneuvers/headon.png, id=1726, 956.57375pt x 290.08376pt>
+File: Figures/Maneuvers/headon.png Graphic file (type png)
+
+<use Figures/Maneuvers/headon.png>
+Package pdftex.def Info: Figures/Maneuvers/headon.png used on input line 238.
+(pdftex.def)             Requested size: 455.24411pt x 138.05235pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--245
+
+ []
+
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+<Figures/Maneuvers/converging.png, id=1737, 956.57375pt x 290.08376pt>
+File: Figures/Maneuvers/converging.png Graphic file (type png)
+
+<use Figures/Maneuvers/converging.png>
+Package pdftex.def Info: Figures/Maneuvers/converging.png used on input line 25
+1.
+(pdftex.def)             Requested size: 455.24411pt x 138.05235pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--258
+
+ []
+
+[76 <E:/Dropbox/Tese/Documento/Figures/Maneuvers/headon.png> <E:/Dropbox/Tese/D
+ocumento/Figures/Maneuvers/converging.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+
+ []
+
+<Figures/Maneuvers/overtake.png, id=1749, 956.57375pt x 290.08376pt>
+File: Figures/Maneuvers/overtake.png Graphic file (type png)
+
+<use Figures/Maneuvers/overtake.png>
+Package pdftex.def Info: Figures/Maneuvers/overtake.png used on input line 264.
+
+(pdftex.def)             Requested size: 455.24411pt x 138.05235pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--282
+
+ []
+
+[77 <E:/Dropbox/Tese/Documento/Figures/Maneuvers/overtake.png>] [78])
+(E:\Dropbox\Tese\Documento\Thesis_Conclusions.tex
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--25
+
+ []
+
+
+Underfull \vbox (badness 1107) has occurred while \output is active []
+
+ [79
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 31--37
+
+ []
+
+[80]) (E:\Dropbox\Tese\Documento\Thesis.bbl [81
+
+
+
+] [82] [83] [84]) [85] [86
+
+]
+(E:\Dropbox\Tese\Documento\Thesis_Appendix.tex
+Appendix A.
+<Figures/Part1.png, id=1797, 361.35pt x 672.3519pt>
+File: Figures/Part1.png Graphic file (type png)
+ <use Figures/Part1.png>
+Package pdftex.def Info: Figures/Part1.png used on input line 16.
+(pdftex.def)             Requested size: 364.19667pt x 677.65428pt.
+
+<Figures/Part2.png, id=1798, 427.8384pt x 696.4419pt>
+File: Figures/Part2.png Graphic file (type png)
+ <use Figures/Part2.png>
+Package pdftex.def Info: Figures/Part2.png used on input line 21.
+(pdftex.def)             Requested size: 364.19667pt x 592.87105pt.
+
+<Figures/Part3.png, id=1799, 406.3983pt x 688.2513pt>
+File: Figures/Part3.png Graphic file (type png)
+ <use Figures/Part3.png>
+Package pdftex.def Info: Figures/Part3.png used on input line 26.
+(pdftex.def)             Requested size: 364.19667pt x 616.80548pt.
+
+<Figures/Part4.png, id=1800, 402.7848pt x 669.2202pt>
+File: Figures/Part4.png Graphic file (type png)
+ <use Figures/Part4.png>
+Package pdftex.def Info: Figures/Part4.png used on input line 31.
+(pdftex.def)             Requested size: 364.19667pt x 605.10077pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 \chapter
+             {Test Procedures} [1
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 \chapter
+             {Test Procedures} [2 <E:/Dropbox/Tese/Documento/Figures/Part1.png>
+]pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 \chapter
+             {Test Procedures} [3 <E:/Dropbox/Tese/Documento/Figures/Part2.png>
+]pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 \chapter
+             {Test Procedures} [4 <E:/Dropbox/Tese/Documento/Figures/Part3.png>
+]pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 \chapter
+             {Test Procedures} [5 <E:/Dropbox/Tese/Documento/Figures/Part4.png>
+]
+Appendix B.
+<testprocedure.pdf, id=1821, 597.50829pt x 845.0471pt>
+File: testprocedure.pdf Graphic file (type pdf)
+ <use testprocedure.pdf>
+Package pdftex.def Info: testprocedure.pdf used on input line 37.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf>
+Package pdftex.def Info: testprocedure.pdf used on input line 37.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+
+<testprocedure.pdf, id=1824, page=1, 597.50829pt x 845.0471pt>
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf, page 1>
+Package pdftex.def Info: testprocedure.pdf, page1 used on input line 37.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: testprocedure.pdf Graphic file (type pdf)
+ <use testprocedure.pdf, page 1>
+Package pdftex.def Info: testprocedure.pdf, page1 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf, page 1>
+Package pdftex.def Info: testprocedure.pdf, page1 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedure.pdf Graphic file (type pdf)
+ <use testprocedure.pdf, page 1>
+Package pdftex.def Info: testprocedure.pdf, page1 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \includepdf[pages={1-}]{testprocedure.pdf}
+                                                [6
+
+]
+<testprocedure.pdf, id=1828, page=2, 597.50829pt x 845.0471pt>
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf, page 2>
+Package pdftex.def Info: testprocedure.pdf, page2 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedure.pdf Graphic file (type pdf)
+ <use testprocedure.pdf, page 2>
+Package pdftex.def Info: testprocedure.pdf, page2 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \includepdf[pages={1-}]{testprocedure.pdf}
+                                               
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf, page 1>
+Package pdftex.def Info: testprocedure.pdf, page1 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [7 <E:/Dropbox/Tese/Documento/testprocedure.pdf>] <testprocedure.pdf, id=1846,
+ page=3, 597.50829pt x 845.0471pt>
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf, page 3>
+Package pdftex.def Info: testprocedure.pdf, page3 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedure.pdf Graphic file (type pdf)
+ <use testprocedure.pdf, page 3>
+Package pdftex.def Info: testprocedure.pdf, page3 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \includepdf[pages={1-}]{testprocedure.pdf}
+                                               
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf, page 2>
+Package pdftex.def Info: testprocedure.pdf, page2 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [8 <E:/Dropbox/Tese/Documento/testprocedure.pdf>] <testprocedure.pdf, id=1861,
+ page=4, 597.50829pt x 845.0471pt>
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf, page 4>
+Package pdftex.def Info: testprocedure.pdf, page4 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedure.pdf Graphic file (type pdf)
+ <use testprocedure.pdf, page 4>
+Package pdftex.def Info: testprocedure.pdf, page4 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \includepdf[pages={1-}]{testprocedure.pdf}
+                                               
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf, page 3>
+Package pdftex.def Info: testprocedure.pdf, page3 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [9 <E:/Dropbox/Tese/Documento/testprocedure.pdf>] <testprocedure.pdf, id=1883,
+ page=5, 597.50829pt x 845.0471pt>
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf, page 5>
+Package pdftex.def Info: testprocedure.pdf, page5 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedure.pdf Graphic file (type pdf)
+ <use testprocedure.pdf, page 5>
+Package pdftex.def Info: testprocedure.pdf, page5 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \includepdf[pages={1-}]{testprocedure.pdf}
+                                               
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf, page 4>
+Package pdftex.def Info: testprocedure.pdf, page4 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [10 <E:/Dropbox/Tese/Documento/testprocedure.pdf>]pdfTeX warning (ext4): desti
+nation with the same identifier (name{page.11}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.37 \includepdf[pages={1-}]{testprocedure.pdf}
+                                               
+File: testprocedure.pdf Graphic file (type pdf)
+
+<use testprocedure.pdf, page 5>
+Package pdftex.def Info: testprocedure.pdf, page5 used on input line 37.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [11 <E:/Dropbox/Tese/Documento/testprocedure.pdf>] <testprocedureIR.pdf, id=18
+93, 597.50829pt x 845.0471pt>
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf>
+Package pdftex.def Info: testprocedureIR.pdf used on input line 41.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: testprocedureIR.pdf Graphic file (type pdf)
+ <use testprocedureIR.pdf>
+Package pdftex.def Info: testprocedureIR.pdf used on input line 41.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+
+<testprocedureIR.pdf, id=1896, page=1, 597.50829pt x 845.0471pt>
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 1>
+Package pdftex.def Info: testprocedureIR.pdf, page1 used on input line 41.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: testprocedureIR.pdf Graphic file (type pdf)
+ <use testprocedureIR.pdf, page 1>
+Package pdftex.def Info: testprocedureIR.pdf, page1 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 1>
+Package pdftex.def Info: testprocedureIR.pdf, page1 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureIR.pdf Graphic file (type pdf)
+ <use testprocedureIR.pdf, page 1>
+Package pdftex.def Info: testprocedureIR.pdf, page1 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \includepdf[pages={1-}]{testprocedureIR.pdf}
+                                                  [12]
+<testprocedureIR.pdf, id=1900, page=2, 597.50829pt x 845.0471pt>
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 2>
+Package pdftex.def Info: testprocedureIR.pdf, page2 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureIR.pdf Graphic file (type pdf)
+ <use testprocedureIR.pdf, page 2>
+Package pdftex.def Info: testprocedureIR.pdf, page2 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \includepdf[pages={1-}]{testprocedureIR.pdf}
+                                                 
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 1>
+Package pdftex.def Info: testprocedureIR.pdf, page1 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [13 <E:/Dropbox/Tese/Documento/testprocedureIR.pdf>] <testprocedureIR.pdf, id=
+1916, page=3, 597.50829pt x 845.0471pt>
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 3>
+Package pdftex.def Info: testprocedureIR.pdf, page3 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureIR.pdf Graphic file (type pdf)
+ <use testprocedureIR.pdf, page 3>
+Package pdftex.def Info: testprocedureIR.pdf, page3 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \includepdf[pages={1-}]{testprocedureIR.pdf}
+                                                 
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 2>
+Package pdftex.def Info: testprocedureIR.pdf, page2 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [14 <E:/Dropbox/Tese/Documento/testprocedureIR.pdf>] <testprocedureIR.pdf, id=
+1932, page=4, 597.50829pt x 845.0471pt>
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 4>
+Package pdftex.def Info: testprocedureIR.pdf, page4 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureIR.pdf Graphic file (type pdf)
+ <use testprocedureIR.pdf, page 4>
+Package pdftex.def Info: testprocedureIR.pdf, page4 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.15}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \includepdf[pages={1-}]{testprocedureIR.pdf}
+                                                 
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 3>
+Package pdftex.def Info: testprocedureIR.pdf, page3 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [15 <E:/Dropbox/Tese/Documento/testprocedureIR.pdf>] <testprocedureIR.pdf, id=
+1945, page=5, 597.50829pt x 845.0471pt>
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 5>
+Package pdftex.def Info: testprocedureIR.pdf, page5 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureIR.pdf Graphic file (type pdf)
+ <use testprocedureIR.pdf, page 5>
+Package pdftex.def Info: testprocedureIR.pdf, page5 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.16}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \includepdf[pages={1-}]{testprocedureIR.pdf}
+                                                 
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 4>
+Package pdftex.def Info: testprocedureIR.pdf, page4 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [16 <E:/Dropbox/Tese/Documento/testprocedureIR.pdf>] <testprocedureIR.pdf, id=
+1956, page=6, 597.50829pt x 845.0471pt>
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 6>
+Package pdftex.def Info: testprocedureIR.pdf, page6 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureIR.pdf Graphic file (type pdf)
+ <use testprocedureIR.pdf, page 6>
+Package pdftex.def Info: testprocedureIR.pdf, page6 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.17}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \includepdf[pages={1-}]{testprocedureIR.pdf}
+                                                 
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 5>
+Package pdftex.def Info: testprocedureIR.pdf, page5 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [17 <E:/Dropbox/Tese/Documento/testprocedureIR.pdf>] <testprocedureIR.pdf, id=
+1967, page=7, 597.50829pt x 845.0471pt>
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 7>
+Package pdftex.def Info: testprocedureIR.pdf, page7 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureIR.pdf Graphic file (type pdf)
+ <use testprocedureIR.pdf, page 7>
+Package pdftex.def Info: testprocedureIR.pdf, page7 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.18}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \includepdf[pages={1-}]{testprocedureIR.pdf}
+                                                 
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 6>
+Package pdftex.def Info: testprocedureIR.pdf, page6 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [18 <E:/Dropbox/Tese/Documento/testprocedureIR.pdf>] <testprocedureIR.pdf, id=
+1982, page=8, 597.50829pt x 845.0471pt>
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 8>
+Package pdftex.def Info: testprocedureIR.pdf, page8 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureIR.pdf Graphic file (type pdf)
+ <use testprocedureIR.pdf, page 8>
+Package pdftex.def Info: testprocedureIR.pdf, page8 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.19}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \includepdf[pages={1-}]{testprocedureIR.pdf}
+                                                 
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 7>
+Package pdftex.def Info: testprocedureIR.pdf, page7 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [19 <E:/Dropbox/Tese/Documento/testprocedureIR.pdf>]pdfTeX warning (ext4): des
+tination with the same identifier (name{page.20}) has been already used, duplic
+ate ignored
+<to be read again> 
+                   \relax 
+l.41 \includepdf[pages={1-}]{testprocedureIR.pdf}
+                                                 
+File: testprocedureIR.pdf Graphic file (type pdf)
+
+<use testprocedureIR.pdf, page 8>
+Package pdftex.def Info: testprocedureIR.pdf, page8 used on input line 41.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [20 <E:/Dropbox/Tese/Documento/testprocedureIR.pdf>] <testprocedurePrototype.p
+df, id=1989, 597.50829pt x 845.0471pt>
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf>
+Package pdftex.def Info: testprocedurePrototype.pdf used on input line 45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+ <use testprocedurePrototype.pdf>
+Package pdftex.def Info: testprocedurePrototype.pdf used on input line 45.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+
+<testprocedurePrototype.pdf, id=1992, page=1, 597.50829pt x 845.0471pt>
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 1>
+Package pdftex.def Info: testprocedurePrototype.pdf, page1 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 1>
+Package pdftex.def Info: testprocedurePrototype.pdf, page1 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 1>
+Package pdftex.def Info: testprocedurePrototype.pdf, page1 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 1>
+Package pdftex.def Info: testprocedurePrototype.pdf, page1 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.21}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 ...df[pages={1-}]{testprocedurePrototype.pdf}
+                                                   [21]
+<testprocedurePrototype.pdf, id=1997, page=2, 597.50829pt x 845.0471pt>
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 2>
+Package pdftex.def Info: testprocedurePrototype.pdf, page2 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 2>
+Package pdftex.def Info: testprocedurePrototype.pdf, page2 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.22}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 ...df[pages={1-}]{testprocedurePrototype.pdf}
+                                                  
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 1>
+Package pdftex.def Info: testprocedurePrototype.pdf, page1 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [22 <E:/Dropbox/Tese/Documento/testprocedurePrototype.pdf>]
+<testprocedurePrototype.pdf, id=2013, page=3, 597.50829pt x 845.0471pt>
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 3>
+Package pdftex.def Info: testprocedurePrototype.pdf, page3 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 3>
+Package pdftex.def Info: testprocedurePrototype.pdf, page3 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.23}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 ...df[pages={1-}]{testprocedurePrototype.pdf}
+                                                  
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 2>
+Package pdftex.def Info: testprocedurePrototype.pdf, page2 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [23 <E:/Dropbox/Tese/Documento/testprocedurePrototype.pdf>]
+<testprocedurePrototype.pdf, id=2030, page=4, 597.50829pt x 845.0471pt>
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 4>
+Package pdftex.def Info: testprocedurePrototype.pdf, page4 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 4>
+Package pdftex.def Info: testprocedurePrototype.pdf, page4 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.24}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 ...df[pages={1-}]{testprocedurePrototype.pdf}
+                                                  
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 3>
+Package pdftex.def Info: testprocedurePrototype.pdf, page3 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [24 <E:/Dropbox/Tese/Documento/testprocedurePrototype.pdf>]
+<testprocedurePrototype.pdf, id=2038, page=5, 597.50829pt x 845.0471pt>
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 5>
+Package pdftex.def Info: testprocedurePrototype.pdf, page5 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 5>
+Package pdftex.def Info: testprocedurePrototype.pdf, page5 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.25}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 ...df[pages={1-}]{testprocedurePrototype.pdf}
+                                                  
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 4>
+Package pdftex.def Info: testprocedurePrototype.pdf, page4 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [25 <E:/Dropbox/Tese/Documento/testprocedurePrototype.pdf>]
+<testprocedurePrototype.pdf, id=2046, page=6, 597.50829pt x 845.0471pt>
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 6>
+Package pdftex.def Info: testprocedurePrototype.pdf, page6 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 6>
+Package pdftex.def Info: testprocedurePrototype.pdf, page6 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.26}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 ...df[pages={1-}]{testprocedurePrototype.pdf}
+                                                  
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 5>
+Package pdftex.def Info: testprocedurePrototype.pdf, page5 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [26 <E:/Dropbox/Tese/Documento/testprocedurePrototype.pdf>]
+<testprocedurePrototype.pdf, id=2052, page=7, 597.50829pt x 845.0471pt>
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 7>
+Package pdftex.def Info: testprocedurePrototype.pdf, page7 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 7>
+Package pdftex.def Info: testprocedurePrototype.pdf, page7 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.27}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 ...df[pages={1-}]{testprocedurePrototype.pdf}
+                                                  
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 6>
+Package pdftex.def Info: testprocedurePrototype.pdf, page6 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [27 <E:/Dropbox/Tese/Documento/testprocedurePrototype.pdf>]
+<testprocedurePrototype.pdf, id=2063, page=8, 597.50829pt x 845.0471pt>
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 8>
+Package pdftex.def Info: testprocedurePrototype.pdf, page8 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 8>
+Package pdftex.def Info: testprocedurePrototype.pdf, page8 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.28}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 ...df[pages={1-}]{testprocedurePrototype.pdf}
+                                                  
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 7>
+Package pdftex.def Info: testprocedurePrototype.pdf, page7 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [28 <E:/Dropbox/Tese/Documento/testprocedurePrototype.pdf>]
+<testprocedurePrototype.pdf, id=2072, page=9, 597.50829pt x 845.0471pt>
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 9>
+Package pdftex.def Info: testprocedurePrototype.pdf, page9 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 9>
+Package pdftex.def Info: testprocedurePrototype.pdf, page9 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.29}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 ...df[pages={1-}]{testprocedurePrototype.pdf}
+                                                  
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 8>
+Package pdftex.def Info: testprocedurePrototype.pdf, page8 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [29 <E:/Dropbox/Tese/Documento/testprocedurePrototype.pdf>]
+<testprocedurePrototype.pdf, id=2076, page=10, 597.50829pt x 845.0471pt>
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 10>
+Package pdftex.def Info: testprocedurePrototype.pdf, page10 used on input line 
+45.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 10>
+Package pdftex.def Info: testprocedurePrototype.pdf, page10 used on input line 
+45.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.30}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 ...df[pages={1-}]{testprocedurePrototype.pdf}
+                                                  
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 9>
+Package pdftex.def Info: testprocedurePrototype.pdf, page9 used on input line 4
+5.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [30 <E:/Dropbox/Tese/Documento/testprocedurePrototype.pdf>]pdfTeX warning (ext
+4): destination with the same identifier (name{page.31}) has been already used,
+ duplicate ignored
+<to be read again> 
+                   \relax 
+l.45 ...df[pages={1-}]{testprocedurePrototype.pdf}
+                                                  
+File: testprocedurePrototype.pdf Graphic file (type pdf)
+
+<use testprocedurePrototype.pdf, page 10>
+Package pdftex.def Info: testprocedurePrototype.pdf, page10 used on input line 
+45.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [31 <E:/Dropbox/Tese/Documento/testprocedurePrototype.pdf>]
+<testprocedureAircraft.pdf, id=2083, 597.50829pt x 845.0471pt>
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf>
+Package pdftex.def Info: testprocedureAircraft.pdf used on input line 49.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+ <use testprocedureAircraft.pdf>
+Package pdftex.def Info: testprocedureAircraft.pdf used on input line 49.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+
+<testprocedureAircraft.pdf, id=2086, page=1, 597.50829pt x 845.0471pt>
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 1>
+Package pdftex.def Info: testprocedureAircraft.pdf, page1 used on input line 49
+.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 1>
+Package pdftex.def Info: testprocedureAircraft.pdf, page1 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 1>
+Package pdftex.def Info: testprocedureAircraft.pdf, page1 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 1>
+Package pdftex.def Info: testprocedureAircraft.pdf, page1 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.32}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...pdf[pages={1-}]{testprocedureAircraft.pdf}
+                                                   [32]
+<testprocedureAircraft.pdf, id=2090, page=2, 597.50829pt x 845.0471pt>
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 2>
+Package pdftex.def Info: testprocedureAircraft.pdf, page2 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 2>
+Package pdftex.def Info: testprocedureAircraft.pdf, page2 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.33}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...pdf[pages={1-}]{testprocedureAircraft.pdf}
+                                                  
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 1>
+Package pdftex.def Info: testprocedureAircraft.pdf, page1 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [33 <E:/Dropbox/Tese/Documento/testprocedureAircraft.pdf>]
+<testprocedureAircraft.pdf, id=2105, page=3, 597.50829pt x 845.0471pt>
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 3>
+Package pdftex.def Info: testprocedureAircraft.pdf, page3 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 3>
+Package pdftex.def Info: testprocedureAircraft.pdf, page3 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.34}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...pdf[pages={1-}]{testprocedureAircraft.pdf}
+                                                  
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 2>
+Package pdftex.def Info: testprocedureAircraft.pdf, page2 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [34 <E:/Dropbox/Tese/Documento/testprocedureAircraft.pdf>]
+<testprocedureAircraft.pdf, id=2116, page=4, 597.50829pt x 845.0471pt>
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 4>
+Package pdftex.def Info: testprocedureAircraft.pdf, page4 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 4>
+Package pdftex.def Info: testprocedureAircraft.pdf, page4 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.35}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...pdf[pages={1-}]{testprocedureAircraft.pdf}
+                                                  
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 3>
+Package pdftex.def Info: testprocedureAircraft.pdf, page3 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [35 <E:/Dropbox/Tese/Documento/testprocedureAircraft.pdf>]
+<testprocedureAircraft.pdf, id=2124, page=5, 597.50829pt x 845.0471pt>
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 5>
+Package pdftex.def Info: testprocedureAircraft.pdf, page5 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 5>
+Package pdftex.def Info: testprocedureAircraft.pdf, page5 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.36}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...pdf[pages={1-}]{testprocedureAircraft.pdf}
+                                                  
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 4>
+Package pdftex.def Info: testprocedureAircraft.pdf, page4 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [36 <E:/Dropbox/Tese/Documento/testprocedureAircraft.pdf>]
+<testprocedureAircraft.pdf, id=2130, page=6, 597.50829pt x 845.0471pt>
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 6>
+Package pdftex.def Info: testprocedureAircraft.pdf, page6 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 6>
+Package pdftex.def Info: testprocedureAircraft.pdf, page6 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.37}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...pdf[pages={1-}]{testprocedureAircraft.pdf}
+                                                  
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 5>
+Package pdftex.def Info: testprocedureAircraft.pdf, page5 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [37 <E:/Dropbox/Tese/Documento/testprocedureAircraft.pdf>]
+<testprocedureAircraft.pdf, id=2140, page=7, 597.50829pt x 845.0471pt>
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 7>
+Package pdftex.def Info: testprocedureAircraft.pdf, page7 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 7>
+Package pdftex.def Info: testprocedureAircraft.pdf, page7 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.38}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...pdf[pages={1-}]{testprocedureAircraft.pdf}
+                                                  
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 6>
+Package pdftex.def Info: testprocedureAircraft.pdf, page6 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [38 <E:/Dropbox/Tese/Documento/testprocedureAircraft.pdf>]
+<testprocedureAircraft.pdf, id=2147, page=8, 597.50829pt x 845.0471pt>
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 8>
+Package pdftex.def Info: testprocedureAircraft.pdf, page8 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 8>
+Package pdftex.def Info: testprocedureAircraft.pdf, page8 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.39}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...pdf[pages={1-}]{testprocedureAircraft.pdf}
+                                                  
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 7>
+Package pdftex.def Info: testprocedureAircraft.pdf, page7 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [39 <E:/Dropbox/Tese/Documento/testprocedureAircraft.pdf>]
+<testprocedureAircraft.pdf, id=2152, page=9, 597.50829pt x 845.0471pt>
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 9>
+Package pdftex.def Info: testprocedureAircraft.pdf, page9 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 9>
+Package pdftex.def Info: testprocedureAircraft.pdf, page9 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.40}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...pdf[pages={1-}]{testprocedureAircraft.pdf}
+                                                  
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 8>
+Package pdftex.def Info: testprocedureAircraft.pdf, page8 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [40 <E:/Dropbox/Tese/Documento/testprocedureAircraft.pdf>]pdfTeX warning (ext4
+): destination with the same identifier (name{page.41}) has been already used, 
+duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...pdf[pages={1-}]{testprocedureAircraft.pdf}
+                                                  
+File: testprocedureAircraft.pdf Graphic file (type pdf)
+
+<use testprocedureAircraft.pdf, page 9>
+Package pdftex.def Info: testprocedureAircraft.pdf, page9 used on input line 49
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [41 <E:/Dropbox/Tese/Documento/testprocedureAircraft.pdf>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
+ (E:\Dropbox\Tese\Documento\Thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
+Package rerunfilecheck Info: File `Thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 148ED210A99EB36DBF562BD8A65FC58C;5127.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
+ ) 
+Here is how much of TeX's memory you used:
+ 13550 strings out of 495252
+ 212078 string characters out of 3180665
+ 355093 words of memory out of 3000000
+ 15824 multiletter control sequences out of 15000+200000
+ 50031 words of font info for 153 fonts, out of 3000000 for 9000
+ 38 hyphenation exceptions out of 8191
+ 41i,18n,43p,1902b,746s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro
+8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Thesis.pdf (147 pages, 47766160 bytes).
+PDF statistics:
+ 2291 PDF objects out of 2487 (max. 8388607)
+ 422 named destinations out of 1000 (max. 500000)
+ 31982 words of extra memory for PDF output out of 35830 (max. 10000000)
+

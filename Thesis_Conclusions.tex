@@ -1,0 +1,39 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                      %
+%     File: Thesis_Conclusions.tex                                     %
+%     Tex Master: Thesis.tex                                           %
+%                                                                      %
+%     Author: Andre C. Marta                                           %
+%     Last modified : 21 Jan 2011                                      %
+%                                                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Conclusions}
+\label{chapter:conclusions}
+
+% ----------------------------------------------------------------------
+\section{Achievements}
+\label{section:achievements}
+
+The main goal of this dissertation was to study and develop strategies and systems that allow the low cost implementation of Sense and Avoid capabilities in sUA.\\
+After studying the state-of-the-art, the first step was to increase the visibility of small unmanned aircraft, which helps to decrease the probability of collision with both manned and unmanned aircraft. At this point, it was found that the identification of the type of aircraft, which includes the information about the presence or absence of a pilot on-board, would be an interesting add-on. This information should also improve the efficiency of Sense and Avoid systems which use the visual spectrum to detect intruders and provide vital information about their flight path and type of aircraft, so that right of way may be applied.\\
+As sUA do not have the capability to achieve the luminous intensities required for position and anti-collision lights system from normal aircraft, a relation between the aircraft's characteristics and the required intensities was suggested. With this, it was possible to design a system configuration for a quadcopter which respected the required angular coverage and the suggested intensities. This configuration was later implemented on a quadcopter.\\
+The second developed system relies on Infrared communication to enable detection of intruders. This system is based on the VOR, using several angular sectors for both transmission and reception to allow an aircraft equipped with the system to obtain the relative position of any intruder. The transmitted message contains both the flight direction and type of aircraft, so that, as the previous solution, the rules of the air may be applied to avoid collisions.\\
+After the assembly of two prototypes, several tests were done before any aircraft was used. The first one was an optimization test which tried to achieve the best combination of four different variables that are responsible for time control at different stages. The following tests aimed to assess both the range and blind-spots.\\
+Finally, one prototype was fixed on a quadcopter but due to time restrictions and problems with the aircraft's batteries, the test was not successfully concluded.\\
+The used material was selected to fulfill the requirements, which included low acquisition cost. With this in mind, the cost in material required for each system is: \euro{37.54} for IR Sense and Avoid Prototype and \euro{20} for the position and anti-collision lights system, with the price of an Arduino\texttrademark board included in both prices.\\
+
+
+% ----------------------------------------------------------------------
+\section{Future Work}
+\label{section:future}
+
+During the development and design process, a couple different paths of research were found that might prove interesting to investigate. On the other hand, due to time restrains, some alternatives or corrections to the developed prototypes could not be implemented.\\
+To begin with, instead of adopting the infrared spectrum, a solution that uses the GSM network should be studied. Solving the problem of localization and the required unique identification, the GSM network might be used to enable communications between aircraft or with a server which would replace air traffic controllers, predicting collisions and sending flight path corrections to the involved aircraft.\\
+An obvious problem with the developed prototype is the simplification to two dimensions. The introduction of the third dimension would complicate the design process too much for the available time.\\
+In order to increase the reception probability, the controller should be replaced with one which enables reception and transmission at the same time. This modification will also introduce a setback, with the possibility of an aircraft receiving its own reflected signal.\\
+Because of the receiver saturation problem, a dual transmission configuration is suggested. This way, one LED would transmit with high power while the LED on the opposite side would transmit with reduced power to enable reception at close range. This can only be implemented with a controller that can generate two different signals, which is not the case of the Arduino\texttrademark Pro Mini.\\
+Due to lack of time, the created IR Sense and Avoid Prototype could not be tested with an aircraft, nor outdoors. It is recommended that both tests are done. Adding to this, the implemented position and anti-collision lights system could not be tested outdoors. More studies should be done to the later system, where user visibility studies are highly recommended.\\
+
+\cleardoublepage
+

@@ -1,0 +1,84 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{ACAS}]\begingroup Airborne Collision Avoidance System\nomeqref {0}
+		\nompageref{xvii}
+  \item [{ADS-B}]\begingroup Automatic Dependent Surveillance-Broadcast\nomeqref {0}
+		\nompageref{xvii}
+  \item [{ASR}]\begingroup Airport Surveillance Radar\nomeqref {0}
+		\nompageref{xvii}
+  \item [{ATC}]\begingroup Air Traffic Control\nomeqref {0}
+		\nompageref{xvii}
+  \item [{ATCRBS}]\begingroup Air Traffic Control Radar Beacon System\nomeqref {0}
+		\nompageref{xvii}
+  \item [{ATCS}]\begingroup Air Traffic Control System\nomeqref {0}
+		\nompageref{xvii}
+  \item [{ATCU}]\begingroup Airway Traffic Control Unit\nomeqref {0}
+		\nompageref{xvii}
+  \item [{BCAS}]\begingroup Beacon-Based Collision Avoidance System\nomeqref {0}
+		\nompageref{xvii}
+  \item [{C2}]\begingroup Command and Control\nomeqref {0}
+		\nompageref{xvii}
+  \item [{DME}]\begingroup Distance Measuring Equipment\nomeqref {0}
+		\nompageref{xvii}
+  \item [{EASA}]\begingroup European Aviation Safety Agency\nomeqref {0}
+		\nompageref{xvii}
+  \item [{FAA}]\begingroup Federal Aviation Administration\nomeqref {0}
+		\nompageref{xvii}
+  \item [{FRUIT}]\begingroup False Replies Unsynchronized Interrogator Transmissions\nomeqref {0}
+		\nompageref{xvii}
+  \item [{GA}]\begingroup General Aviation\nomeqref {0}
+		\nompageref{xvii}
+  \item [{GNSS}]\begingroup Global Navigation Satellite System\nomeqref {0}
+		\nompageref{xvii}
+  \item [{ICAO}]\begingroup International Civil Aviation Organization\nomeqref {0}
+		\nompageref{xvii}
+  \item [{IFF}]\begingroup Identification Friend or Foe\nomeqref {0}
+		\nompageref{xvii}
+  \item [{IFR}]\begingroup Instrument Flight Rules\nomeqref {0}
+		\nompageref{xvii}
+  \item [{ILS}]\begingroup Instrument Landing System\nomeqref {0}
+		\nompageref{xvii}
+  \item [{IR}]\begingroup Infrared\nomeqref {0}\nompageref{xvii}
+  \item [{LED}]\begingroup Light Emitting Diode\nomeqref {0}
+		\nompageref{xvii}
+  \item [{MOSFET}]\begingroup Metal Oxide Semiconductor Field Effect Transistor\nomeqref {0}
+		\nompageref{xvii}
+  \item [{NDB}]\begingroup Non-Directional Beacon\nomeqref {0}
+		\nompageref{xvii}
+  \item [{PAR}]\begingroup Precision Approach Radar\nomeqref {0}
+		\nompageref{xvii}
+  \item [{PWM}]\begingroup Pulse Width Modulation\nomeqref {0}
+		\nompageref{xvii}
+  \item [{RA}]\begingroup Resolution Advisories\nomeqref {0}
+		\nompageref{xvii}
+  \item [{RTCA}]\begingroup Radio Technical Commission for Aeronautics\nomeqref {0}
+		\nompageref{xvii}
+  \item [{SAA}]\begingroup Sense and Avoid\nomeqref {0}
+		\nompageref{xvii}
+  \item [{SSR}]\begingroup Secondary Surveillance Radar\nomeqref {0}
+		\nompageref{xvii}
+  \item [{sUA}]\begingroup Small Unmanned Aircraft\nomeqref {0}
+		\nompageref{xvii}
+  \item [{TA}]\begingroup Traffic Advisories\nomeqref {0}
+		\nompageref{xvii}
+  \item [{TCAS}]\begingroup Traffic Alert and Collision Avoidance System\nomeqref {0}
+		\nompageref{xvii}
+  \item [{UA}]\begingroup Unmanned Aircraft\nomeqref {0}
+		\nompageref{xvii}
+  \item [{UAS}]\begingroup Unmanned Aircraft System\nomeqref {0}
+		\nompageref{xvii}
+  \item [{UAT}]\begingroup Universal Access Transceiver\nomeqref {0}
+		\nompageref{xvii}
+  \item [{UAV}]\begingroup Unmanned Aircraft Vehicle\nomeqref {0}
+		\nompageref{xvii}
+  \item [{UV}]\begingroup Ultraviolet\nomeqref {0}\nompageref{xvii}
+  \item [{VFR}]\begingroup Visual Flight Rules\nomeqref {0}
+		\nompageref{xvii}
+  \item [{VMC}]\begingroup Visual Meteorological Conditions\nomeqref {0}
+		\nompageref{xvii}
+  \item [{VOR}]\begingroup Very High Frequency Omnidirectional Range\nomeqref {0}
+		\nompageref{xvii}
+
+\end{thenomenclature}

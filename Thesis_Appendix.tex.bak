@@ -1,0 +1,55 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                      %
+%     File: Thesis_Appendix.tex                                        %
+%     Tex Master: Thesis.tex                                           %
+%                                                                      %
+%     Author: Andre C. Marta                                           %
+%     Last modified : 21 Jan 2011                                      %
+%                                                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setcounter{page}{1}
+\chapter{Printed Box Technical Drawings}
+\label{annex:drawings}
+\begin{figure}[!htb]
+  \centering
+  \includegraphics[width=1\textwidth]{Figures/Part1.png}
+  \caption[Technical Drawing of Printed Box's First Piece]{Technical Drawing of Printed Box's First Piece}
+  \label{fig:esquemalights2}
+\end{figure}
+
+\chapter{Test Procedures}
+\section{Visual Material Test}
+\label{visualmaterial}
+\includepdf[]{testprocedure.pdf}
+
+\section{IR Material Test}
+\label{annex:irmaterial}
+\includepdf[]{testprocedureIR.pdf}
+
+\section{IR Maneuvers Test}
+\label{annex:maneuvers}
+\includepdf[]{testprocedurePrototype.pdf}
+
+\section{IR Sense and Avoid Test with Aircraft}
+\label{annex:sas}
+\includepdf[]{testprocedureAircraft.pdf}
+
+
+
+%% ----------------------------------------------------------------------
+%\section{Vector identities}
+%\label{section:vectorIdentities}
+%
+%\begin{equation}
+%	\nabla \times \left( \nabla \phi \right) = 0
+%	\label{eq:cross_nnp}
+%\end{equation}
+%
+%\begin{equation}
+%	\nabla \cdot \left( \nabla \times {\bf u} \right) = 0
+%	\label{eq:dotCross_nnu}
+%\end{equation}
+%
+%\cleardoublepage
+

@@ -1,0 +1,29 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                      %
+%     File: Thesis_Acknowledgments.tex                                 %
+%     Tex Master: Thesis.tex                                           %
+%                                                                      %
+%     Author: Andre C. Marta                                           %
+%     Last modified : 21 Jan 2011                                      %
+%                                                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{\acknowledgments}
+
+% Add entry in the table of contents as section
+\addcontentsline{toc}{section}{\acknowledgments}
+
+I would like to acknowledge all those who directly or indirectly assisted me during the realization of this thesis.\\
+
+First, i would like to thank my first supervisor, Professor Rodrigo Ventura, for his interest and constant encouragement to look for new solutions.\\
+
+I also wish to thank my second supervisor, Major Jo\~{a}o Sim\~{o}es, for his knowledge, commitment, dedication and guidance since we first discussed possible thesis. \\
+
+To my coordinator, Lieutenant-Colonel Ana Jorge, for knowing exactly when pressure was required and permanent support.\\
+
+To my colleague Pedro Roque, who helped me implement the developed prototypes.\\
+
+At a personal level, I would like to thank my parents, for the unconditional support and motivation during all these years; to my brother, which even 1.000 km could not stop from helping me; to my second family, \textit{Torques}, for the camaraderie; to all my friends, for your interest, impatient with the duration of this work and for understaning any possible absence; and last but not least, to my loving girlfriend, Mafalda, for giving me the motivation required to finish this work and to always being present.\\
+
+\cleardoublepage
+

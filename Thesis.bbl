@@ -1,0 +1,450 @@
+\begin{thebibliography}{10}
+
+\bibitem{Easa2012}
+{European Aviation Safety Agency}.
+\newblock {\em {CS-23 Certification Specifications for Normal, Utility,
+  Aerobatic, and Commuter Category Aeroplanes}}.
+\newblock Number July. 2012.
+
+\bibitem{FederalAviationAdministration2011}
+{Federal Aviation Administration}.
+\newblock {Introduction to TCAS II Version 7.1}.
+\newblock pages 1--50, 2011.
+
+\bibitem{ITU2009}
+{International Telecommunication Union - Radiocommunication Sector}.
+\newblock {International Morse Code}, 2009.
+
+\bibitem{OptoSupply}
+OptoSupply.
+\newblock {Super Flux Pure White LED Datasheet}.
+
+\bibitem{WahWangHoldingsCo.LTD}
+{Wah Wang Holdings Co. LTD}.
+\newblock {Datasheet for 5mm Super Bright Red LED}.
+
+\bibitem{WahWangHoldingsCo.LTDa}
+{Wah Wang Holdings Co. LTD}.
+\newblock {Datasheet for 5mm Super White LED}.
+
+\bibitem{WahWangHoldingsCo.LTDb}
+{Wah Wang Holdings Co. LTD}.
+\newblock {Datasheet for 5mm Super Bright Green LED}.
+
+\bibitem{FederalAviationAdministration2013}
+{Federal Aviation Administration}.
+\newblock {Integration of Civil Unmanned Aircraft Systems (UAS) in the National
+  Airspace System (NAS) Roadmap}.
+\newblock page~74, 2013.
+
+\bibitem{ICAO2015}
+{International Civil Aviation Organization}.
+\newblock {Manual on Remotely Piloted Aircraft Systems ( RPAS )}, 2015.
+
+\bibitem{Chang2000}
+E.~Chang, R.~Hu, D.~Lai, R.~Li, Q.~Scott, and T.~Tyan.
+\newblock {The Story of Mode S}.
+\newblock {\em Dec}, 15:1--40, 2000.
+
+\bibitem{Tosaka2010}
+Tosaka.
+\newblock {Jet-liner's lights}, 2010.
+
+\bibitem{QinetiQ2013}
+QinetiQ.
+\newblock {Airborne and Ground-Based Safety Nets}, 2013.
+
+\bibitem{Richards2010}
+Wr~Richards, K~O'Brien, and Dc~Miller.
+\newblock {New Air Traffic Surveillance Technology}.
+\newblock {\em Boeing aero quarterly, quarter}, 2010.
+
+\bibitem{EuropeanDefenceAgency2015}
+{European Defence Agency}.
+\newblock {MIDCAS demonstrates progress for RPAS integration into civil
+  airspace}, 2015.
+
+\bibitem{Geyer2009}
+Christopher Geyer, Debadeepta Dey, and Sanjiv Singh.
+\newblock {Prototype Sense-and-Avoid System for UAVs}.
+\newblock Technical Report February, Carnegie Mellon University, Pittsburgh,
+  2009.
+
+\bibitem{HarrisCorporation2015a}
+{Harris Corporation}.
+\newblock {Symphony OpsVue Comprehensive Airport and Airspace Situational
+  Awareness and Collaborative Decision Making}, 2015.
+
+\bibitem{SARA2012}
+SARA.
+\newblock {UAV Acoustic Collision-Alert System}, 2012.
+
+\bibitem{Skyward2015}
+Skyward.
+\newblock {Skyward}, 2015.
+
+\bibitem{AEVOGmbH2015a}
+{AEVO GmbH}.
+\newblock {AECAS 100}, 2015.
+
+\bibitem{DJI2015a}
+DJI.
+\newblock {DJI Guidance}, 2015.
+
+\bibitem{Rockstroh2014}
+Ulrich Rockstroh.
+\newblock {uniLIGHT - Professional Aircraft Lighting}, 2014.
+
+\bibitem{Haynes}
+Clive~R. Haynes.
+\newblock {Digital Infrared Capture {\&} Workflow}.
+
+\bibitem{Rohde2007}
+Robert~A. Rohde.
+\newblock {Solar Radiation Spectrum}, 2007.
+
+\bibitem{Infrarossidotit2009}
+Infrarossidotit.
+\newblock {RC-5 protocol details used in RC remote control}, 2009.
+
+\bibitem{Vishay2015}
+Vishay.
+\newblock {IR Receiver Modules for Remote Control Systems}, 2015.
+
+\bibitem{Vishay2014}
+Vishay.
+\newblock {Vishay Semiconductors High Speed Infrared Emitting Diode , 940 nm},
+  2014.
+
+\bibitem{Planefinder2012}
+Planefinder.
+\newblock {Visual Flight Rules (VFR) of the air}, 2012.
+
+\bibitem{TheEuropeanCommission2003}
+{The European Commission}.
+\newblock {Commission Regulation (EC) No. 2042/2003 of 20 November 2003 on the
+  continuing airworthiness of aircraft and aeronautical products, parts and
+  appliances, and on the approval of organisations and personnel involved in
+  these tasks}.
+\newblock {\em Official Journal of the European Union}, 2003(1701), 2003.
+
+\bibitem{Eurocontrol2010}
+Eurocontrol.
+\newblock {Unmanned Aircraft Systems - ATM Collision Avoidance Requirements},
+  2010.
+
+\bibitem{InternationalCivilAviationOrganization2011}
+{International Civil Aviation Organization}.
+\newblock {ICAO cir. 328 Unmanned Aircraft Systems (UAS)}, 2011.
+
+\bibitem{FederalAviationAdministration2015}
+{Federal Aviation Administration}.
+\newblock {Operation and Certification of Small Unmanned Aircraft Systems},
+  2015.
+
+\bibitem{Angelov2012}
+Plamen Angelov.
+\newblock {\em {Sense and Avoid in UAS: Research and Applications}}.
+\newblock Wiley, Chichester, 1 edition, 2012.
+
+\bibitem{Karp2015}
+Aaron Karp.
+\newblock {FAA warns of 'a million drones under people's Christmas trees'},
+  2015.
+
+\bibitem{Choate2014}
+Kelly Choate.
+\newblock {Close Call: Drone Nearly Collides With Medical Helicopter}, 2014.
+
+\bibitem{Kaminski-Morrow2015}
+David Kaminski-Morrow.
+\newblock {Light aircraft collides with drone in Norway}, 2015.
+
+\bibitem{Paton2015}
+Graeme Paton.
+\newblock {Drone curbs urged after near-misses with planes}, 2015.
+
+\bibitem{Elliott2012}
+Lisa~Jo Elliott, Jeremy~D. Schwark, and Matthew~J. Rambert.
+\newblock {Detect, Sense and Avoid}.
+\newblock In {\em Introduction to Unmanned Aircraft Systems}, chapter~9, page
+  214. 2012.
+
+\bibitem{AustralianTransportSafetyBureau2004}
+{Australian Transport Safety Bureau}.
+\newblock {Limitations of the See-and-Avoid Principle Limitations of the
+  See-and-Avoid Principle}.
+\newblock 2004.
+
+\bibitem{Nolan2010}
+Ms~Nolan.
+\newblock {\em {Fundamentals of air traffic control}}.
+\newblock 2010.
+
+\bibitem{Fischer1998}
+William~Edward Fischer.
+\newblock {The Development of Military Night Aviation to 1919}.
+\newblock {\em The Development of Military Night Aviation to 1919}, 1998.
+
+\bibitem{NationalTransportationSafetyBoard1962}
+{National Transportation Safety Board}.
+\newblock {Midair collision , Accident Investigation Report , United Air Lines
+  Douglas DC-8 N8013U, and Trans World Airlines Costellation 1049A N6907C ,
+  near Staten Island, New York}.
+\newblock (1), 1962.
+
+\bibitem{Garr1979}
+Doug Garr.
+\newblock {Automatic alert system will help prevent midair collisions}.
+\newblock {\em Popular Science}, pages 82 -- 85, 1979.
+
+\bibitem{NationalTransportationSafetyBoard}
+{National Transportation Safety Board}.
+\newblock {AAR - Collision over San Diego}.
+\newblock page~76, 1979.
+
+\bibitem{MariaS.Lee2009}
+Maria~S. Lee.
+\newblock {TCAS: A Second Set of Eyes for Pilots}, 2009.
+
+\bibitem{NationalTransportationSafetyBoard1986}
+{National Transportation Safety Board}.
+\newblock {AAR - Collision over Cerritos}.
+\newblock 1986.
+
+\bibitem{SenateandHouseofRepresentativesoftheUnitedStatesofAmericainCongress1987}
+{Senate and House of Representatives of the United States of America in
+  Congress}.
+\newblock {Public Law 100-223 - Airport And Airway Improvement Act}, 1987.
+
+\bibitem{Icao2006}
+{International Civil Aviation Organization}.
+\newblock {Airborne Collision Avoidance System ( ACAS ) Manual}, 2006.
+
+\bibitem{FAA1996}
+FAA.
+\newblock {Surveillance Vision Plan , Revision 2}.
+\newblock 1996.
+
+\bibitem{FederalAviationAdministration2015a}
+{Federal Aviation Administration}.
+\newblock {Aeronautical Information Manual - Change 3}, 2015.
+
+\bibitem{TheEuropeanCommission2014}
+{The European Commission}.
+\newblock {Implementing Regulation (EU) No. 1028/2014 amending Implementing
+  Regulation (EU) No 1207/2011}.
+\newblock {\em Official Journal of the European Union}, (1028), 2014.
+
+\bibitem{TheEuropeanCommission2011}
+{The European Commission}.
+\newblock {Implementing Regulation (EU) No. 1207/2011 laywing down requirements
+  for the performance and the interoperability of surveillance for the single
+  European sky}.
+\newblock {\em Official Journal of the European Union}, (1207), 2011.
+
+\bibitem{OfficeofTechnologyAssessment1980}
+{Office of Technology Assessment}.
+\newblock {Proceedings of the OTA Seminar on the Discrete Address Beacon System
+  (DABS) July 1980}.
+\newblock Number July, 1980.
+
+\bibitem{Eurocontrol2015}
+Eurocontrol.
+\newblock {ACAS Guide - Airborne Collision Avoidance Systems (incorporating
+  TCAS II version 7.0 {\&} 7.1 and introduction to ACAS X)}, 2015.
+
+\bibitem{Smith2005}
+Dale Smith.
+\newblock {Traffic Alert Collision Avoidance Systems - TCAS Buyer's Guide}.
+\newblock {\em Aircraft Electronics Association Pilots Guide}, pages 26--32,
+  2005.
+
+\bibitem{Lester2007}
+Edward~A. Lester.
+\newblock {\em {Benefits and Incentives for ADS-B Equipage in the National
+  Airspace System}}.
+\newblock PhD thesis, Massachusets Institute of Technology, 2007.
+
+\bibitem{Costin2012}
+Andrei Costin and Aur{\'{e}}lien Francillon.
+\newblock {Ghost in the Air(Traffic): On insecurity of ADS-B protocol and
+  practical attacks on ADS-B devices}.
+\newblock Technical report, 2012.
+
+\bibitem{ACP2005}
+{Aeronautical Communications Panel Workgroup C - UAT Subgroup}.
+\newblock {Manual on the Universal Access Transceiver (UAT): Detailed Technical
+  Specifications}, 2005.
+
+\bibitem{proesch2015}
+R~Proesch and A~Daskalaki-Proesch.
+\newblock {\em {Technical Handbook for Radio Monitoring VHF/UHF: Edition
+  2013}}.
+\newblock Books on Demand, 2015.
+
+\bibitem{Consortium2011}
+{MIDCAS Consortium}.
+\newblock {MIDCAS}, 2011.
+
+\bibitem{Rugg2015}
+Karen Rugg and Tony Springer.
+\newblock {Aeronautics Research Mission Programs - UAS Integration in the NAS
+  Project}, 2015.
+
+\bibitem{Geyer2008}
+Christopher Geyer, Sanjiv Singh, and Lyle Chamberlain.
+\newblock {Avoiding Collisions Between Aircraft : State of the Art and
+  Requirements for UAVs operating in Civilian Airspace}.
+\newblock {\em Image (Rochester, N.Y.)}, (January), 2008.
+
+\bibitem{Dey2010}
+Debadeepta Dey, Christopher Geyer, Sanjiv Singh, and Matt Digioia.
+\newblock {Passive, Long-Range Detection of Aircraft: Towards a Field
+  Deployable Sense and Avoid System}.
+\newblock {\em Field and Service Robotics}, 7(July 2009):113--123, 2010.
+
+\bibitem{Ansell2011}
+Darren Ansell.
+\newblock {Sense {\&} Avoid}, 2011.
+
+\bibitem{Dopping-Hepenstal2012}
+Lambert Dopping-Hepenstal, Ruth Mallors, John Alty, Mike Gadd, and Darren
+  Ansell.
+\newblock {Presentations from ASTRAEA National Conference 2012 - Day 1}.
+\newblock 2012.
+
+\bibitem{Nussberger2014}
+Andreas Nussberger, Helmut Grabner, and Luc {Van Gool}.
+\newblock {Aerial object tracking from an airborne platform}.
+\newblock Technical report, 2014.
+
+\bibitem{Exelis2011}
+Exelis.
+\newblock {Exelis - SYMPHONY}, 2011.
+
+\bibitem{GrahamWarmick2015}
+Graham Warwick.
+\newblock {Shedding Light}, 2015.
+
+\bibitem{Evans2015}
+Jonathan Evans.
+\newblock {Skyward Raises {\$}4M in Expansion Seed Capital}, 2015.
+
+\bibitem{AEVOGmbH2015}
+{AEVO GmbH}.
+\newblock {AECAS100 Product Manual}, 2015.
+
+\bibitem{DJI2015}
+DJI.
+\newblock {Guidance User Manual}, 2015.
+
+\bibitem{Mchale2015}
+Sean Mchale.
+\newblock {UniLIGHT: an effective enhancement to your next jet}.
+\newblock {\em RC Jet International}, pages 2--4, 2015.
+
+\bibitem{InternationalCivilAviationOrganization2006}
+{International Civil Aviation Organization}.
+\newblock {Annex 10 Aeronautical Telecommunications - Volume 1 Radio Navigation
+  Aids}, 2006.
+
+\bibitem{Morsh1948}
+Joseph~E. Morsh and A.~F.~B. Stannard.
+\newblock {Studies in International Morse Code. VI. Speed calculations for
+  International Morse Code.}
+\newblock {\em Canadian Journal of Psychology Revue Canadienne de Psychologie},
+  2(2):62--70, 1948.
+
+\bibitem{EuropeanCommission2008}
+{The European Commission}.
+\newblock {Commission Regulation (EC) No. 859/2008 of 20 August 2008 amending
+  Council Regulation (EEC) No 3922/91 as regards common technical requirements
+  and administrative procedures applicable to commercial transportation by
+  aeroplane}.
+\newblock {\em Official Journal of the European Union}, 2005(July), 2008.
+
+\bibitem{UnitedStatesCoastGuard2011}
+{United States Coast Guard}.
+\newblock {\em {Navigation Rules: International-Inland}}.
+\newblock Paradise Cay Publications, Washington, 2011.
+
+\bibitem{Emspak2011}
+Jesse Emspak.
+\newblock {Iran's Military Hacks U.S. Stealth Drone}, 2011.
+
+\bibitem{BBCNewsTechnology2012}
+{BBC News Technology}.
+\newblock {Researchers use spoofing to 'hack' into a flying drone}, 2012.
+
+\bibitem{Cruz}
+Ricardo O~Rodr{\'{\i}}guez Cruz and Carlos L~Santos V{\'{a}}zquez.
+\newblock {Ultraviolet Communication}.
+
+\bibitem{Waltz2008}
+Jay~Jay Waltz.
+\newblock {Negative Effects of Gamma Rays}, 2008.
+
+\bibitem{Taylor2000}
+Alma E.~F. Taylor, Julie Bailey, and James Gross.
+\newblock {Illumination Fundamentals}.
+\newblock pages 1--48, 2000.
+
+\bibitem{Cox}
+Ronald~G. Driggers, Paul Cox, and Timothy Edwards.
+\newblock {\em {Introduction to Infrared and Electro-Optical Systems}}.
+\newblock Artech House, 1998.
+
+\bibitem{Hou2015}
+R~Hou, Y~Chen, J~Wu, and H~Zhang.
+\newblock {A Brief Survey of Optical Wireless Communication}.
+\newblock {\em 13th Australasian Symposium on Parallel and Distributed
+  Computing (AusPDC 2015)}, 163(January):41--50, 2015.
+
+\bibitem{Ghassemlooy2006}
+Fary~Z. Ghassemlooy.
+\newblock {Optical Wireless Communications - The Story So Far}, 2006.
+
+\bibitem{Ryer.1998}
+Alexander~D. Ryer.
+\newblock {\em {Light measurement}}.
+\newblock International Light, Inc., 1998.
+
+\bibitem{Pauluzzi1992}
+D.R. Pauluzzi, P.R.H. McConnell, and R.L. Poulin.
+\newblock {Free-space, undirected infrared (IR) voice and data communications
+  with a comparison to RF systems}.
+\newblock {\em 1992 IEEE International Conference on Selected Topics in
+  Wireless Communications}, 1992.
+
+\bibitem{Kahn1997}
+Joseph~M. Kahn.
+\newblock {Wireless infrared communications}.
+\newblock {\em Proceedings of the IEEE}, 85(2):265--298, 1997.
+
+\bibitem{Cornelius}
+J.~Willers Cornelius.
+\newblock {\em {Electro-Optical System Analysis and Design}}.
+\newblock SPIE - The International Society for Optical Engineering, Bellingham,
+  Washington, 2013.
+
+\bibitem{Rao2013}
+S~Ranganatha Rao and Masha Chandrasekaran.
+\newblock {Use of Infrared in Image Transmission from Mobile Phone to
+  Television}.
+\newblock 3(6):485--496, 2013.
+
+\bibitem{Vishay2013}
+Vishay.
+\newblock {Data Formats for IR Remote Control}, 2013.
+
+\bibitem{Vishay}
+Vishay.
+\newblock {General Overview of IR Transmission in Free Ambient}.
+\newblock page~2, 2013.
+
+\bibitem{Shirriff2009}
+Ken Shirriff.
+\newblock {Arduino-IRremote}, 2009.
+
+\end{thebibliography}

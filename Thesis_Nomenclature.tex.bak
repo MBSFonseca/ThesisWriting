@@ -1,0 +1,67 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                      %
+%     File: Thesis_Nomenclature.tex                                    %
+%     Tex Master: Thesis.tex                                           %
+%                                                                      %
+%     Author: Andre C. Marta                                           %
+%     Last modified : 21 Jan 2011                                      %
+%                                                                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% The definitions can be placed anywhere in the document body
+% and their order is sorted by <symbol> automatically when
+% calling makeindex in the makefile
+%
+% The \glossary command has the following syntax:
+%
+% \glossary{entry}
+%
+% The \nomenclature command has the following syntax:
+%
+% \nomenclature[<prefix>]{<symbol>}{<description>}
+%
+% where <prefix> is used for fine tuning the sort order,
+% <symbol> is the symbol to be described, and <description> is
+% the actual description.
+
+\nomenclature{VFR}{Visual Flight Rules}
+\nomenclature{ATCRBS}{Air Traffic Control Radar Beacon System}
+\nomenclature{IFF}{Identification Friend or Foe}
+\nomenclature{BCAS}{Beacon-Based Collision Avoidance System}
+\nomenclature{SSR}{Secondary Surveillance Radar}
+\nomenclature{FRUIT}{False Replies Unsynchronized Interrogator Transmissions}
+\nomenclature{TCAS}{Traffic Alert and Collision Avoidance System}
+\nomenclature{ADS-B}{Automatic Dependent Surveillance-Broadcast}
+\nomenclature{ICAO}{International Civil Aviation Organization}
+\nomenclature{RTCA}{Radio Technical Commission for Aeronautics}
+\nomenclature{C2}{Command and Control}
+\nomenclature{UAS}{Unmanned Aircraft System}
+\nomenclature{UAV}{Unmanned Aircraft Vehicle}
+\nomenclature{UA}{Unmanned Aircraft}
+\nomenclature{sUA}{Small Unmanned Aircraft}
+\nomenclature{ACAS}{Airborne Collision Avoidance System}
+\nomenclature{FAA}{Federal Aviation Administration}
+\nomenclature{ATC}{Air Traffic Control}
+\nomenclature{ATCU}{Airway Traffic Control Unit}
+\nomenclature{ATCS}{Air Traffic Control System}
+\nomenclature{VOR}{Very High Frequency Omnidirectional Range}
+\nomenclature{DME}{Distance Measuring Equipment}
+\nomenclature{ASR}{Airport Surveillance Radar}
+\nomenclature{ILS}{Instrument Landing System}
+\nomenclature{PAR}{Precision Approach Radar}
+\nomenclature{IFR}{Instrument Flight Rules}
+\nomenclature{BCAS}{Beacon-Based Collision Avoidance System}
+\nomenclature{GNSS}{Global Navigation Satellite System}
+\nomenclature{RA}{Resolution Advisories}
+\nomenclature{TA}{Traffic Advisories}
+\nomenclature{UAT}{Universal Access Transceiver}
+\nomenclature{SAA}{Sense and Avoid}
+\nomenclature{GA}{General Aviation}
+\nomenclature{VMC}{Visual Meteorological Conditions}
+\nomenclature{LED}{Light Emitting Diode}
+\nomenclature{NDB}{Non-Directional Beacon}
+\nomenclature{EASA}{European Aviation Safety Agency}
+\nomenclature{MOSFET}{Metal Oxide Semiconductor Field Effect Transistor}
+\nomenclature{UV}{Ultraviolet}
+\nomenclature{IR}{Infrared}
+\nomenclature{PWM}{Pulse Width Modulation}
